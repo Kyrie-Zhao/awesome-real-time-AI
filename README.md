@@ -12,6 +12,8 @@ This is a list of awesome EdgeAI inference related projects & papers.
   - [Edge-Cloud Collaborative Inference](#Collaborative)
   - [Concurrent DNN Inference](#concurrent)
   - [Latency Predictor](#predictor)
+  - [TinyML](#tinyml)
+ 
  
 ## Open Source Projects
 - [TVM: An End to End Machine Learning Compiler Framework](https://tvm.apache.org/)
@@ -22,3 +24,9 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3341301.3359630) by Zhihao Jia et al., SOSP 2019
 
 ### Edge-Cloud Collaboration Inference
+
+### Concurrent DNN Inference
+
+### Latency Predictor
+
+### TinyML
