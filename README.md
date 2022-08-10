@@ -8,13 +8,14 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Open Source Projects](#open-source-projects)
 - [Papers](#papers)
   - [Survey](#survey)
-  - [DNN Compilers](#compiler)
+  - [DNN Compiler](#compiler)
   - [Edge-Cloud Collaborative Inference](#Collaborative)
   - [Concurrent DNN Inference](#concurrent)
   - [Latency Predictor](#predictor)
   - [TinyML](#tinyml)
   - [Multi-modality Inference](#multi-modality)
   - [Sparse Inference](#sparse)
+  - [Others](#others)
  
  
 ## Open Source Projects
@@ -36,3 +37,5 @@ This is a list of awesome EdgeAI inference related projects & papers.
 ### Multi-modality Inference
 
 ### Sparse Inference
+
+### Others
