@@ -11,6 +11,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
   - [DNN Compiler](#dnn-compiler)
   - [Edge-Cloud Collaborative Inference](#edge-cloud-collaborative-inference)
   - [Concurrent DNN Inference](#concurrent-dnn-inference)
+  - [Heterogeneous Platforms](#heterogeneous-platform)
   - [Latency Predictor](#latency-predictor)
   - [TinyML](#tinyml)
   - [Multi-modality Inference](#multi-modality-inference)
@@ -55,6 +56,10 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [RT-mDL: Supporting Real-Time Mixed Deep Learning Tasks on Edge Platforms](https://dl.acm.org/doi/pdf/10.1145/3485730.3485938?casa_token=gmqsW0h-7TUAAAAA:MqWvebvOkaT0kCORWXPCoIN5VEN0EBToR36zucKe63d1Exf9m-a5H8ebHVO2-OZZh6YB7DzvytW8QQ) by Ling, Neiwen, et al., SenSys 2021
 - [Horus: Interference-aware and prediction-based scheduling in deep learning systems](https://ieeexplore.ieee.org/iel7/71/4359390/09428512.pdf) by Yeung, Gingfung, et al., IEEE TPDS 2021
 - [Automated Runtime-Aware Scheduling for Multi-Tenant DNN Inference on GPU](https://ieeexplore.ieee.org/iel7/9643423/9643432/09643501.pdf) by Yu, Fuxun, et al., ICCAD 2021
+
+### Heterogeneous Platforms
+- [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
+- [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://dl.acm.org/doi/pdf/10.1145/3442442.3452297?casa_token=rNEtNHavbREAAAAA:U4wL45EN3WD8dh_CW41BVZSAcdKCzDO1KRvNRJsCIMTk6SoeaUa2NvvosOkN6vLnCLcZHt7sMg) by Zhang, Minjia, Zehua Hu, and Mingqin Li., IPDPS 2021
 
 ### Latency Predictor
 - [MAPLE-Edge: A Runtime Latency Predictor for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/EVW/papers/Nair_MAPLE-Edge_A_Runtime_Latency_Predictor_for_Edge_Devices_CVPRW_2022_paper.pdf) by Nair, Saeejith, et al., CVPR 2022
