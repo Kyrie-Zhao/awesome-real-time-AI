@@ -60,9 +60,9 @@ This is a list of awesome EdgeAI inference related projects & papers.
 
 ### TinyML
 - [Mcunet: Tiny deep learning on iot devices](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf) by Lin, Ji, et al. , Neurips 2020
-- []() by ,
 
 ### Multi-modality Inference
+- [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
 
 ### Sparse Inference
 - [SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf) by Zheng, Ningxin, et al., OSDI 2022
