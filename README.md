@@ -19,7 +19,8 @@ This is a list of awesome EdgeAI inference related projects & papers.
  
  
 ## Open Source Projects
-- [TVM: An End to End Machine Learning Compiler Framework](https://tvm.apache.org/)
+- [TVM](https://tvm.apache.org/)
+- [KubeEdge](https://github.com/kubeedge/kubeedge)
 
 ## Papers
 
