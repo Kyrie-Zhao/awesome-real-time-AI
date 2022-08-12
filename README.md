@@ -76,4 +76,5 @@ This is a list of awesome EdgeAI inference related projects & papers.
 ### Sparse Inference
 - [SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf) by Zheng, Ningxin, et al., OSDI 2022
 
-### Others
+### Others 
+Compression related papers :)
