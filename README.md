@@ -68,7 +68,11 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices](https://dl.acm.org/doi/pdf/10.1145/3458864.3467882?casa_token=XqdJMALxIdkAAAAA:VhfaRoo7fWSlLOERqfqPcTjW4NfsBB0EXG7AKTw-s_eUFjMscdzTK6oU1kAPREY6nlF2jqO43PTk6g) by Zhang, Li Lyna, et al., MobiSys 2021
 
 ### TinyML
-- [Mcunet: Tiny deep learning on iot devices](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf) by Lin, Ji, et al. , Neurips 2020
+- [Mcunet: Tiny deep learning on iot devices](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf) by Lin, Ji, et al. , NeurIPS 2020
+- [TinyML: Current Progress, Research Challenges, and Future Roadmap](https://ieeexplore.ieee.org/iel7/9585997/9586083/09586232.pdf?casa_token=OkZ2VanNSfoAAAAA:VepU071luwbGdzcLFA_4bHRlLXZ-CRo2Xwsw-7kLKF8BBLw_2eI83V52l8kc8XP93MwUwHxArgI) by Shafique, Muhammad, et al., DAC 2021
+- [Benchmarking TinyML systems: Challenges and direction](https://arxiv.org/pdf/2003.04821) by Banbury, Colby R., et al., arxiv 2020
+- [μNAS: Constrained Neural Architecture Search for Microcontrollers](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836) by Liberis, Edgar, Łukasz Dudziak, and Nicholas D. Lane., EuroMLSys 2021
+- [Memory-efficient Patch-based Inference for Tiny Deep Learning](https://proceedings.neurips.cc/paper/2021/file/1371bccec2447b5aa6d96d2a540fb401-Paper.pdf) by Lin, Ji, et al., NeurIPS 2021
 
 ### Multi-modality Inference
 - [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
