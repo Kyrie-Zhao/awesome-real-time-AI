@@ -59,6 +59,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Interference-aware scheduling for inference serving](https://dl.acm.org/doi/pdf/10.1145/3437984.3458837?casa_token=CWMAG53X-EoAAAAA:FXA3ZHvAzasGqkaUPoVoXNREe1qEzYkaFQramYjfG_mu0MjJVJdQzH_IjBPGAIuhkmq9CgPuAQ) by Mendoza, Daniel, et al., EuroMLSys
 - [Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences](https://www.usenix.org/system/files/osdi22-han.pdf) by Han, Mingcong, et al., OSDI 2022
 - [Planaria: Dynamic architecture fission for spatial multi-tenant acceleration of deep neural networks](https://ieeexplore.ieee.org/iel7/9251289/9251849/09251939.pdf?casa_token=JK4fOIekLU0AAAAA:zLGfIHmDMqPICBSEjAYEa1xHuFRBXTN4Kc-bjO8eZD-VhVIuNlV2B_UCCSXdFY-bWUSOC1xbJqM) by Ghodrati, Soroush, et al., MICRO 2020
+- [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/pdf/10.1145/3372224.3419192?casa_token=TDdZgOLYfioAAAAA:w_HWQIpOiic498lYa-z6kRUYp4RxS92RiVoxNP6P6vBR7QvK2wyAYS4h77wEIh9ogv6B1n29zwfedw) by Yi, Juheon, and Youngki Lee., MobiCom 2020
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
