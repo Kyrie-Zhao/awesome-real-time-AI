@@ -61,10 +61,12 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Microsecond-scale Preemption for Concurrent GPU-accelerated DNN Inferences](https://www.usenix.org/system/files/osdi22-han.pdf) by Han, Mingcong, et al., OSDI 2022
 - [Planaria: Dynamic architecture fission for spatial multi-tenant acceleration of deep neural networks](https://ieeexplore.ieee.org/iel7/9251289/9251849/09251939.pdf?casa_token=JK4fOIekLU0AAAAA:zLGfIHmDMqPICBSEjAYEa1xHuFRBXTN4Kc-bjO8eZD-VhVIuNlV2B_UCCSXdFY-bWUSOC1xbJqM) by Ghodrati, Soroush, et al., MICRO 2020
 - [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/pdf/10.1145/3372224.3419192?casa_token=TDdZgOLYfioAAAAA:w_HWQIpOiic498lYa-z6kRUYp4RxS92RiVoxNP6P6vBR7QvK2wyAYS4h77wEIh9ogv6B1n29zwfedw) by Yi, Juheon, and Youngki Lee., MobiCom 2020
+- [Deepeye: Resource efficient local execution of multiple deep vision models using wearable commodity hardware](https://dl.acm.org/doi/pdf/10.1145/3081333.3081359) by Mathur, Akhil, et al., MobiSys 2017
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
 - [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://dl.acm.org/doi/pdf/10.1145/3442442.3452297?casa_token=rNEtNHavbREAAAAA:U4wL45EN3WD8dh_CW41BVZSAcdKCzDO1KRvNRJsCIMTk6SoeaUa2NvvosOkN6vLnCLcZHt7sMg) by Zhang, Minjia, Zehua Hu, and Mingqin Li., IPDPS 2021
+- [Band: coordinated multi-DNN inference on heterogeneous mobile processors](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948) by Jeong, Joo Seong, et al., MobiSys 2022
 
 ### Latency Predictor
 - [MAPLE-Edge: A Runtime Latency Predictor for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/EVW/papers/Nair_MAPLE-Edge_A_Runtime_Latency_Predictor_for_Edge_Devices_CVPRW_2022_paper.pdf) by Nair, Saeejith, et al., CVPR 2022
