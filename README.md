@@ -16,7 +16,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
   - [TinyML](#tinyml)
   - [Multi-modality Inference](#multi-modality-inference)
   - [Sparse Inference](#sparse-inference)
-  - [Others](#others)
+  - [Other Cool Ideas](#other-cool-ideas)
  
  
 ## Open Source Projects
