@@ -65,6 +65,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Heimdall: mobile GPU coordination platform for augmented reality applications](https://dl.acm.org/doi/pdf/10.1145/3372224.3419192?casa_token=TDdZgOLYfioAAAAA:w_HWQIpOiic498lYa-z6kRUYp4RxS92RiVoxNP6P6vBR7QvK2wyAYS4h77wEIh9ogv6B1n29zwfedw) by Yi, Juheon, and Youngki Lee., MobiCom 2020
 - [Deepeye: Resource efficient local execution of multiple deep vision models using wearable commodity hardware](https://dl.acm.org/doi/pdf/10.1145/3081333.3081359) by Mathur, Akhil, et al., MobiSys 2017
 - [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/system/files/osdi20-bai.pdf) by Bai, Zhihao, et al., OSDI 2020
+- [Enable simultaneous DNN services based on deterministic operator overlap and precise latency prediction](https://dl.acm.org/doi/pdf/10.1145/3458817.3476143) by Cui, Weihao, et al., SC 2021
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
