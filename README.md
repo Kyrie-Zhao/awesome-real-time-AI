@@ -66,6 +66,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Deepeye: Resource efficient local execution of multiple deep vision models using wearable commodity hardware](https://dl.acm.org/doi/pdf/10.1145/3081333.3081359) by Mathur, Akhil, et al., MobiSys 2017
 - [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/system/files/osdi20-bai.pdf) by Bai, Zhihao, et al., OSDI 2020
 - [Enable simultaneous DNN services based on deterministic operator overlap and precise latency prediction](https://dl.acm.org/doi/pdf/10.1145/3458817.3476143) by Cui, Weihao, et al., SC 2021
+- [LegoDNN: block-grained scaling of deep neural networks for mobile vision](https://dl.acm.org/doi/abs/10.1145/3447993.3483249) by Han, Rui, et al., MobiCom 2021
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
@@ -96,4 +97,5 @@ This is a list of awesome EdgeAI inference related projects & papers.
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
 - [Towards efficient vision transformer inference: a first study of transformers on mobile devices](https://dl.acm.org/doi/pdf/10.1145/3508396.3512869) by Wang, Xudong, et al., HotMobile 2022
+- [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) byAmert, Tanya, et al., RTSS 2017
 
