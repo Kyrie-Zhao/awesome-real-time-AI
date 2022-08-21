@@ -72,11 +72,14 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [LegoDNN: block-grained scaling of deep neural networks for mobile vision](https://dl.acm.org/doi/abs/10.1145/3447993.3483249) by Han, Rui, et al., MobiCom 2021
 - [NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems](https://www.usenix.org/system/files/atc20-bateni.pdf) by Bateni, Soroush, and Cong Liu., ATC 2020
 - [Multi-Neural Network Acceleration Architecture](https://ieeexplore.ieee.org/iel7/9136582/9138908/09138929.pdf) by Baek, Eunjin, Dongup Kwon, and Jangwoo Kim., ISCA 2020
+- [Pipelined data-parallel CPU/GPU scheduling for multi-DNN real-time inference](https://ieeexplore.ieee.org/iel7/9040680/9052112/09052147.pdf) by Xiang, Yecheng, and Hyoseung Kim., RTSS 2019
+- [Nestdnn: Resource-aware multi-tenant on-device deep learning for continuous mobile vision](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559) by Fang, Biyi, Xiao Zeng, and Mi Zhang., MobiCom 2018
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
 - [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://dl.acm.org/doi/pdf/10.1145/3442442.3452297?casa_token=rNEtNHavbREAAAAA:U4wL45EN3WD8dh_CW41BVZSAcdKCzDO1KRvNRJsCIMTk6SoeaUa2NvvosOkN6vLnCLcZHt7sMg) by Zhang, Minjia, Zehua Hu, and Mingqin Li., IPDPS 2021
 - [Band: coordinated multi-DNN inference on heterogeneous mobile processors](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948) by Jeong, Joo Seong, et al., MobiSys 2022
+- [ODMDEF: On-Device Multi-DNN Execution Framework Utilizing Adaptive Layer-Allocation on General Purpose Cores and Accelerator](https://ieeexplore.ieee.org/iel7/6287639/9312710/09453793.pdf) by Lim, Cheolsun, and Myungsun Kim., IEEE ACCESS 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
