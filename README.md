@@ -30,6 +30,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 ### Survey
 - [Edge Intelligence: Architectures, Challenges, and Applications](https://arxiv.org/pdf/2003.12172) by Xu, Dianlei, et al., arxiv 2020
 - [A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/pdf/2203.09040) by Yu, Fuxun, et al., arxiv 2022
+- [Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9739684) by Bian, Jiang, et al., IOTJ 2022
 
 ### DNN Compiler
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3341301.3359630) by Zhihao Jia et al., SOSP 2019
