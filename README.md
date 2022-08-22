@@ -86,6 +86,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [μlayer: Low latency on-device inference using cooperative single-layer acceleration and processor-friendly quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) by Kim, Youngsok, et al., EuroSys 2019
 - [OPTiC: Optimizing collaborative CPU–GPU computing on mobile devices with thermal constraints](https://ieeexplore.ieee.org/iel7/43/6917053/08477038.pdf) by Wang, Siqi, Gayathri Ananthanarayanan, and Tulika Mitra., TCAD 2019
 - [Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors](https://dl.acm.org/doi/pdf/10.1145/3472456.3472505) by Feng, Zonghao, and Qiong Luo., ICPP 2021
+- [Efficient Execution of Deep Neural Networks on Mobile Devices with NPU](https://dl.acm.org/doi/pdf/10.1145/3412382.3458272) by Tan, Tianxiang, and Guohong Cao., IPSN 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
