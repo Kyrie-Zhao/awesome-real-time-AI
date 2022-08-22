@@ -77,6 +77,7 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Multi-Neural Network Acceleration Architecture](https://ieeexplore.ieee.org/iel7/9136582/9138908/09138929.pdf) by Baek, Eunjin, Dongup Kwon, and Jangwoo Kim., ISCA 2020
 - [Pipelined data-parallel CPU/GPU scheduling for multi-DNN real-time inference](https://ieeexplore.ieee.org/iel7/9040680/9052112/09052147.pdf) by Xiang, Yecheng, and Hyoseung Kim., RTSS 2019
 - [Nestdnn: Resource-aware multi-tenant on-device deep learning for continuous mobile vision](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559) by Fang, Biyi, Xiao Zeng, and Mi Zhang., MobiCom 2018
+- [Flep: Enabling flexible and efficient preemption on gpus](https://dl.acm.org/doi/pdf/10.1145/3093336.3037742) by Wu, Bo, et al., ASPLOS 2017
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
