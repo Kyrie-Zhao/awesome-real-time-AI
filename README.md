@@ -47,6 +47,9 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [Moses: Efficient Exploitation of Cross-device Transferable Features for Tensor Program Optimization](https://arxiv.org/pdf/2201.05752) by Zhao, Zhihe, et al., arxiv 2022
 - [DeepCuts: A Deep Learning Optimization Framework for Versatile GPU Workloads](https://dl.acm.org/doi/pdf/10.1145/3453483.3454038) by Jung, Wookeun, Thanh Tuan Dao, and Jaejin Lee., PLDI 2021
 - [CASE: a compiler-assisted SchEduling framework for multi-GPU systems](https://dl.acm.org/doi/pdf/10.1145/3503221.3508423?casa_token=c738_W6lYCkAAAAA:QcpPBlGQcRjbfbnr99-N7fJXV5ssZMVL9odTdrfRFRLXtaOcAAQOeh3JwhEeaQvOEpX1IRJquURmTg) by Chen, Chao, Chris Porter, and Santosh Pande., PPoPP 2022
+- [Chameleon: Adaptive code optimization for expedited deep neural network compilation](https://arxiv.org/pdf/2001.08743) by Ahn, Byung Hoon, et al., arxiv 2020
+- [Analytical characterization and design space exploration for optimization of CNNs](https://dl.acm.org/doi/pdf/10.1145/3445814.3446759) by Li, Rui, et al., ASPLOS 2021
+- [DNNFusion: accelerating deep neural networks execution with advanced operator fusion](https://dl.acm.org/doi/pdf/10.1145/3453483.3454083) by Niu, Wei, et al., PLDI 2021
 
 
 ### Edge-Cloud Collaborative Inference
@@ -80,6 +83,9 @@ This is a list of awesome EdgeAI inference related projects & papers.
 - [DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture](https://dl.acm.org/doi/pdf/10.1145/3442442.3452297?casa_token=rNEtNHavbREAAAAA:U4wL45EN3WD8dh_CW41BVZSAcdKCzDO1KRvNRJsCIMTk6SoeaUa2NvvosOkN6vLnCLcZHt7sMg) by Zhang, Minjia, Zehua Hu, and Mingqin Li., IPDPS 2021
 - [Band: coordinated multi-DNN inference on heterogeneous mobile processors](https://dl.acm.org/doi/pdf/10.1145/3498361.3538948) by Jeong, Joo Seong, et al., MobiSys 2022
 - [ODMDEF: On-Device Multi-DNN Execution Framework Utilizing Adaptive Layer-Allocation on General Purpose Cores and Accelerator](https://ieeexplore.ieee.org/iel7/6287639/9312710/09453793.pdf) by Lim, Cheolsun, and Myungsun Kim., IEEE ACCESS 2021
+- [μlayer: Low latency on-device inference using cooperative single-layer acceleration and processor-friendly quantization](https://dl.acm.org/doi/pdf/10.1145/3302424.3303950) by Kim, Youngsok, et al., EuroSys 2019
+- [OPTiC: Optimizing collaborative CPU–GPU computing on mobile devices with thermal constraints](https://ieeexplore.ieee.org/iel7/43/6917053/08477038.pdf) by Wang, Siqi, Gayathri Ananthanarayanan, and Tulika Mitra., TCAD 2019
+- [Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors](https://dl.acm.org/doi/pdf/10.1145/3472456.3472505) by Feng, Zonghao, and Qiong Luo., ICPP 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
@@ -101,6 +107,8 @@ This is a list of awesome EdgeAI inference related projects & papers.
 ### Sparse Inference
 - [SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf) by Zheng, Ningxin, et al., OSDI 2022
 - [ESCALATE: Boosting the Efficiency of Sparse CNN Accelerator with Kernel Decomposition](https://dl.acm.org/doi/pdf/10.1145/3466752.3480043) by Li, Shiyu, et al., MICRO 2021
+- [A high-performance sparse tensor algebra compiler in Multi-Level IR](https://arxiv.org/pdf/2102.05187) by Tian, Ruiqin, et al., arxiv 2021
+- [Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction](https://arxiv.org/pdf/2106.16064) by Huang, Guyue, et al., arxiv 2021
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
