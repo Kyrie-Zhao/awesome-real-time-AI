@@ -6,6 +6,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 </p>
 
 ## Contents
+- [Benchmark and Dataset](#benchmark-and-dataset)
 - [Open Source Projects](#open-source-projects)
 - [Papers](#papers)
   - [Survey](#survey)
@@ -19,7 +20,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Sparse Inference](#sparse-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
-## Benchmark & Dataset
+## Benchmark and Dataset
 - [MLPerf](https://github.com/mlcommons/inference)
 
 ## Open Source Projects
