@@ -1,4 +1,4 @@
-# Awesome EdgeAI Inference
+# Awesome Real-time AI
 This is a list of awesome EdgeAI inference related projects & papers. ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)]
 
 <p align="center">
