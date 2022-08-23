@@ -118,4 +118,5 @@ This is a list of awesome EdgeAI inference related projects & papers. ![Awesome]
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
 - [Towards efficient vision transformer inference: a first study of transformers on mobile devices](https://dl.acm.org/doi/pdf/10.1145/3508396.3512869) by Wang, Xudong, et al., HotMobile 2022
 - [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) byAmert, Tanya, et al., RTSS 2017
+- [Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference](https://dl.acm.org/doi/pdf/10.1145/3466752.3480095) by Tambe, Thierry, et al., MICRO 2021
 
