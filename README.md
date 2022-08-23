@@ -19,12 +19,13 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Sparse Inference](#sparse-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
- 
+## Benchmark & Dataset
+- [MLPerf](https://github.com/mlcommons/inference)
+
 ## Open Source Projects
 - [TVM](https://tvm.apache.org/)
 - [KubeEdge](https://github.com/kubeedge/kubeedge)
 - [RAF](https://github.com/awslabs/raf.git)
-- [MLPerf](https://github.com/mlcommons/inference)
 - [REEF](https://github.com/SJTU-IPADS/reef)
 
 ## Papers
