@@ -28,6 +28,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [KubeEdge](https://github.com/kubeedge/kubeedge)
 - [RAF](https://github.com/awslabs/raf.git)
 - [REEF](https://github.com/SJTU-IPADS/reef)
+- [DeepSparse Engine]
 
 ## Papers
 
