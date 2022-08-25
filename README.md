@@ -126,4 +126,5 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) byAmert, Tanya, et al., RTSS 2017
 - [Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference](https://dl.acm.org/doi/pdf/10.1145/3466752.3480095) by Tambe, Thierry, et al., MICRO 2021
 - [EDGEWISE: A Better Stream Processing Engine for the Edge](https://www.usenix.org/system/files/atc19-fu.pdf) by Fu, Xinwei, et al., ATC 2019
+- [LiteFlow: towards high-performance adaptive neural networks for kernel datapath](https://cse.hkust.edu.hk/~kaichen/papers/liteflow-sigcomm22.pdf) by Zhang, Junxue, et al., SIGCOMM 2022
 
