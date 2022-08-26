@@ -56,6 +56,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Chameleon: Adaptive code optimization for expedited deep neural network compilation](https://arxiv.org/pdf/2001.08743) by Ahn, Byung Hoon, et al., arxiv 2020
 - [Analytical characterization and design space exploration for optimization of CNNs](https://dl.acm.org/doi/pdf/10.1145/3445814.3446759) by Li, Rui, et al., ASPLOS 2021
 - [DNNFusion: accelerating deep neural networks execution with advanced operator fusion](https://dl.acm.org/doi/pdf/10.1145/3453483.3454083) by Niu, Wei, et al., PLDI 2021
+- [AutoGTCO: Graph and Tensor Co-Optimize for Image Recognition with Transformers on GPU](https://ieeexplore.ieee.org/iel7/9643423/9643432/09643487.pdf?casa_token=LyByXa84XpMAAAAA:4qRC6_8TE6iVgSlL0NMKy4tRJ6aoDB47fqcGVxhwM7dL1nddqsVuIs2dAmHVGrCN8dBhTCE) by Bai, Yang, et al., ICCAD 2021
 
 
 ### Edge-Cloud Collaborative Inference
