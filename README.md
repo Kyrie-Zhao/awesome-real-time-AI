@@ -1,4 +1,5 @@
-# Awesome Real-time AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)]
+# Awesome Real-time AI ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)] 
+
 This is a list of awesome real-time AI and DNN inference related projects & papers. 
 
 <p align="center">
