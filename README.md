@@ -38,6 +38,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/pdf/2203.09040) by Yu, Fuxun, et al., arxiv 2022
 - [Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9739684) by Bian, Jiang, et al., IOTJ 2022
 - [AI Augmented Edge and Fog Computing: Trends and Challenges](https://arxiv.org/pdf/2208.00761) by Tuli S, Mirhakimi F, Pallewatta S, et al., arxiv 2022
+- [Enable deep learning on mobile devices: Methods, systems, and applications](https://dl.acm.org/doi/pdf/10.1145/3486618) by Cai, Han, et al., TODAES 2022
 
 ### DNN Compiler
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3341301.3359630) by Zhihao Jia et al., SOSP 2019
@@ -122,6 +123,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [A high-performance sparse tensor algebra compiler in Multi-Level IR](https://arxiv.org/pdf/2102.05187) by Tian, Ruiqin, et al., arxiv 2021
 - [Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction](https://arxiv.org/pdf/2106.16064) by Huang, Guyue, et al., arxiv 2021
 - [COEXE: An Efficient Co-execution Architecture for Real-Time Neural Network Services](https://ieeexplore.ieee.org/iel7/9211868/9218488/09218740.pdf) by Liu, Chubo, et al., DAC 2020
+- [TorchSparse: Efficient Point Cloud Inference Engine](https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf) by Tang, Haotian, et al., MLSys 2022
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
