@@ -134,4 +134,5 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference](https://dl.acm.org/doi/pdf/10.1145/3466752.3480095) by Tambe, Thierry, et al., MICRO 2021
 - [EDGEWISE: A Better Stream Processing Engine for the Edge](https://www.usenix.org/system/files/atc19-fu.pdf) by Fu, Xinwei, et al., ATC 2019
 - [LiteFlow: towards high-performance adaptive neural networks for kernel datapath](https://cse.hkust.edu.hk/~kaichen/papers/liteflow-sigcomm22.pdf) by Zhang, Junxue, et al., SIGCOMM 2022
+- [CoCoPIE: Making Mobile AI Sweet As PIE--Compression-Compilation Co-Design Goes a Long Way](https://arxiv.org/pdf/2003.06700) by Liu, Shaoshan, et al., arxiv 2020
 
