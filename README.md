@@ -28,6 +28,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [TVM](https://tvm.apache.org/)
 - [KubeEdge](https://github.com/kubeedge/kubeedge)
 - [RAF](https://github.com/awslabs/raf.git)
+- [INFaas](https://github.com/stanford-mast/INFaaS)
 - [REEF](https://github.com/SJTU-IPADS/reef)
 - [DeepSparse Engine](https://github.com/neuralmagic/deepsparse)
 
