@@ -103,6 +103,9 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors](https://dl.acm.org/doi/pdf/10.1145/3472456.3472505) by Feng, Zonghao, and Qiong Luo., ICPP 2021
 - [Efficient Execution of Deep Neural Networks on Mobile Devices with NPU](https://dl.acm.org/doi/pdf/10.1145/3412382.3458272) by Tan, Tianxiang, and Guohong Cao., IPSN 2021
 - [CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/mobisys22-CoDL__Efficient_CPU_GPU_Co_execution_for_DL_Model_Inference_on_Mobile_Devices-4.pdf) by Jia, Fucheng, et al., MobiSys 2022
+- [Nimble: Lightweight and parallel gpu task scheduling for deep learning](https://proceedings.neurips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf) by Kwon, Woosuk, et al., NeurIPS 2020
+- [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) by Amert, Tanya, et al., RTSS 2017
+- [Real-time high performance computing using a Jetson Xavier AGX](https://hal.archives-ouvertes.fr/hal-03693764/document) by Cetre, Cyril, et al., ERTS 2022
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
@@ -133,7 +136,6 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
 - [Towards efficient vision transformer inference: a first study of transformers on mobile devices](https://dl.acm.org/doi/pdf/10.1145/3508396.3512869) by Wang, Xudong, et al., HotMobile 2022
-- [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) byAmert, Tanya, et al., RTSS 2017
 - [Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference](https://dl.acm.org/doi/pdf/10.1145/3466752.3480095) by Tambe, Thierry, et al., MICRO 2021
 - [EDGEWISE: A Better Stream Processing Engine for the Edge](https://www.usenix.org/system/files/atc19-fu.pdf) by Fu, Xinwei, et al., ATC 2019
 - [LiteFlow: towards high-performance adaptive neural networks for kernel datapath](https://cse.hkust.edu.hk/~kaichen/papers/liteflow-sigcomm22.pdf) by Zhang, Junxue, et al., SIGCOMM 2022
