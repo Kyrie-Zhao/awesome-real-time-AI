@@ -15,6 +15,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Edge-Cloud Collaborative Inference](#edge-cloud-collaborative-inference)
   - [Concurrent DNN Inference](#concurrent-dnn-inference)
   - [Heterogeneous Platforms](#heterogeneous-platform)
+  - [HPC and Archs](#hpc-and-archs)
   - [Latency Predictor](#latency-predictor)
   - [TinyML](#tinyml)
   - [Multi-modality Inference](#multi-modality-inference)
@@ -104,9 +105,14 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors](https://dl.acm.org/doi/pdf/10.1145/3472456.3472505) by Feng, Zonghao, and Qiong Luo., ICPP 2021
 - [Efficient Execution of Deep Neural Networks on Mobile Devices with NPU](https://dl.acm.org/doi/pdf/10.1145/3412382.3458272) by Tan, Tianxiang, and Guohong Cao., IPSN 2021
 - [CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/mobisys22-CoDL__Efficient_CPU_GPU_Co_execution_for_DL_Model_Inference_on_Mobile_Devices-4.pdf) by Jia, Fucheng, et al., MobiSys 2022
-- [Nimble: Lightweight and parallel gpu task scheduling for deep learning](https://proceedings.neurips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf) by Kwon, Woosuk, et al., NeurIPS 2020
-- [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) by Amert, Tanya, et al., RTSS 2017
+
+
+### HPC and Archs
+- [GPUReplay: a 50-KB GPU stack for client ML](https://dl.acm.org/doi/pdf/10.1145/3503222.3507754) by Park, Heejin, and Felix Xiaozhu Lin., ASPLOS 2022
 - [Real-time high performance computing using a Jetson Xavier AGX](https://hal.archives-ouvertes.fr/hal-03693764/document) by Cetre, Cyril, et al., ERTS 2022
+- [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) by Amert, Tanya, et al., RTSS 2017
+- [Nimble: Lightweight and parallel gpu task scheduling for deep learning](https://proceedings.neurips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf) by Kwon, Woosuk, et al., NeurIPS 2020
+- [Addressing GPU on-chip shared memory bank conflicts using elastic pipeline](https://link.springer.com/content/pdf/10.1007/s10766-012-0201-1.pdf) by Gou, Chunyang, and Georgi N. Gaydadjiev., IJPP 2013
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
@@ -141,5 +147,5 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [EDGEWISE: A Better Stream Processing Engine for the Edge](https://www.usenix.org/system/files/atc19-fu.pdf) by Fu, Xinwei, et al., ATC 2019
 - [LiteFlow: towards high-performance adaptive neural networks for kernel datapath](https://cse.hkust.edu.hk/~kaichen/papers/liteflow-sigcomm22.pdf) by Zhang, Junxue, et al., SIGCOMM 2022
 - [CoCoPIE: Making Mobile AI Sweet As PIE--Compression-Compilation Co-Design Goes a Long Way](https://arxiv.org/pdf/2003.06700) by Liu, Shaoshan, et al., arxiv 2020
-- [GPUReplay: a 50-KB GPU stack for client ML](https://dl.acm.org/doi/pdf/10.1145/3503222.3507754) by Park, Heejin, and Felix Xiaozhu Lin., ASPLOS 2022
+
 
