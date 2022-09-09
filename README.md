@@ -14,7 +14,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [DNN Compiler](#dnn-compiler)
   - [Edge-Cloud Collaborative Inference](#edge-cloud-collaborative-inference)
   - [Concurrent DNN Inference](#concurrent-dnn-inference)
-  - [Heterogeneous Platforms](#heterogeneous-platform)
+  - [Heterogeneous Platforms](#heterogeneous-platforms)
   - [HPC and Archs](#hpc-and-archs)
   - [Latency Predictor](#latency-predictor)
   - [TinyML](#tinyml)
