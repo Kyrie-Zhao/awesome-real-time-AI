@@ -24,6 +24,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
  
 ## Benchmark and Dataset
 - [MLPerf](https://github.com/mlcommons/inference)
+- [Tango: A Deep Neural Network Benchmark Suite for Various Accelerators](https://gitlab.com/Tango-DNNbench/Tango)
 
 ## Open Source Projects
 - [TVM](https://tvm.apache.org/)
