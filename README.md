@@ -114,6 +114,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [GPU scheduling on the NVIDIA TX2: Hidden details revealed](https://ieeexplore.ieee.org/iel7/8272883/8277266/08277284.pdf) by Amert, Tanya, et al., RTSS 2017
 - [Nimble: Lightweight and parallel gpu task scheduling for deep learning](https://proceedings.neurips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf) by Kwon, Woosuk, et al., NeurIPS 2020
 - [Addressing GPU on-chip shared memory bank conflicts using elastic pipeline](https://link.springer.com/content/pdf/10.1007/s10766-012-0201-1.pdf) by Gou, Chunyang, and Georgi N. Gaydadjiev., IJPP 2013
+- [A study of persistent threads style GPU programming for GPGPU workloads](https://ieeexplore.ieee.org/iel5/6330715/6339585/06339596.pdf) by Gupta, Kshitij, Jeff A. Stuart, and John D. Owens., IEEE 2012
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
