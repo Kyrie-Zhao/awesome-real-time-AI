@@ -42,6 +42,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9739684) by Bian, Jiang, et al., IOTJ 2022
 - [AI Augmented Edge and Fog Computing: Trends and Challenges](https://arxiv.org/pdf/2208.00761) by Tuli S, Mirhakimi F, Pallewatta S, et al., arxiv 2022
 - [Enable deep learning on mobile devices: Methods, systems, and applications](https://dl.acm.org/doi/pdf/10.1145/3486618) by Cai, Han, et al., TODAES 2022
+- [Multi-DNN Accelerators for Next-Generation AI Systems](https://arxiv.org/pdf/2205.09376) by Venieris, Stylianos I., Christos-Savvas Bouganis, and Nicholas D. Lane., arxiv 2022
 
 ### DNN Compiler
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3341301.3359630) by Zhihao Jia et al., SOSP 2019
@@ -129,6 +130,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Benchmarking TinyML systems: Challenges and direction](https://arxiv.org/pdf/2003.04821) by Banbury, Colby R., et al., arxiv 2020
 - [μNAS: Constrained Neural Architecture Search for Microcontrollers](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836) by Liberis, Edgar, Łukasz Dudziak, and Nicholas D. Lane., EuroMLSys 2021
 - [Memory-efficient Patch-based Inference for Tiny Deep Learning](https://proceedings.neurips.cc/paper/2021/file/1371bccec2447b5aa6d96d2a540fb401-Paper.pdf) by Lin, Ji, et al., NeurIPS 2021
+- [Deep Learning on Microcontrollers: A Study on Deployment Costs and Challenge](https://dl.acm.org/doi/pdf/10.1145/3517207.3526978) by Filip Svoboda, Javier Fernandez-Marques, Edgar Liberis, Nicholas D Lane, EuroMLSys 2022
 
 ### Multi-modality Inference
 - [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
