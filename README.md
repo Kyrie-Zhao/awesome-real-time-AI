@@ -107,6 +107,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Accelerating Sequence-to-Graph Alignment on Heterogeneous Processors](https://dl.acm.org/doi/pdf/10.1145/3472456.3472505) by Feng, Zonghao, and Qiong Luo., ICPP 2021
 - [Efficient Execution of Deep Neural Networks on Mobile Devices with NPU](https://dl.acm.org/doi/pdf/10.1145/3412382.3458272) by Tan, Tianxiang, and Guohong Cao., IPSN 2021
 - [CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/mobisys22-CoDL__Efficient_CPU_GPU_Co_execution_for_DL_Model_Inference_on_Mobile_Devices-4.pdf) by Jia, Fucheng, et al., MobiSys 2022
+- [Coda: Improving resource utilization by slimming and co-locating dnn and cpu jobs](https://ieeexplore.ieee.org/iel7/9355572/9355578/09355823.pdf) by Zhao, Han, et al. ICDCS 2020
 
 
 ### HPC and Archs
@@ -117,12 +118,15 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Addressing GPU on-chip shared memory bank conflicts using elastic pipeline](https://link.springer.com/content/pdf/10.1007/s10766-012-0201-1.pdf) by Gou, Chunyang, and Georgi N. Gaydadjiev., IJPP 2013
 - [A study of persistent threads style GPU programming for GPGPU workloads](https://ieeexplore.ieee.org/iel5/6330715/6339585/06339596.pdf) by Gupta, Kshitij, Jeff A. Stuart, and John D. Owens., IEEE 2012
 - [Demystifying the placement policies of the NVIDIA GPU thread block scheduler for concurrent kernels](https://dl.acm.org/doi/pdf/10.1145/3453953.3453972) by Gilman, Guin, et al., ACM SIGMETRICS Performance Evaluation Review 2021 
+- [Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks](https://ieeexplore.ieee.org/iel7/9643591/9643617/09643686.pdf) by Zhao, Han, et al., ICDC 2021
+- [Online Thread Auto-Tuning for Performance Improvement and Resource Saving](https://ieeexplore.ieee.org/iel7/71/4359390/09762963.pdf) Luan, Guangqiang, et al., IEEE TPDS 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
 - [MAPLE-Edge: A Runtime Latency Predictor for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/EVW/papers/Nair_MAPLE-Edge_A_Runtime_Latency_Predictor_for_Edge_Devices_CVPRW_2022_paper.pdf) by Nair, Saeejith, et al., CVPR 2022
 - [Maple: Microprocessor a priori for latency estimation](https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Abbasi_MAPLE_Microprocessor_a_Priori_for_Latency_Estimation_CVPRW_2022_paper.pdf) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., CVPR 2022
 - [nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices](https://dl.acm.org/doi/pdf/10.1145/3458864.3467882?casa_token=XqdJMALxIdkAAAAA:VhfaRoo7fWSlLOERqfqPcTjW4NfsBB0EXG7AKTw-s_eUFjMscdzTK6oU1kAPREY6nlF2jqO43PTk6g) by Zhang, Li Lyna, et al., MobiSys 2021
+- [Wei, Mengze, et al. "Predicting and reining in application-level slowdown on spatial multitasking GPUs.](https://www.sciencedirect.com/science/article/pii/S0743731519307361) by Wei, Mengze, et al., JPDC 2020
 
 
 ### TinyML
