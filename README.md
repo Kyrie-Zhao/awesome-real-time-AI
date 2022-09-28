@@ -119,7 +119,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [A study of persistent threads style GPU programming for GPGPU workloads](https://ieeexplore.ieee.org/iel5/6330715/6339585/06339596.pdf) by Gupta, Kshitij, Jeff A. Stuart, and John D. Owens., IEEE 2012
 - [Demystifying the placement policies of the NVIDIA GPU thread block scheduler for concurrent kernels](https://dl.acm.org/doi/pdf/10.1145/3453953.3453972) by Gilman, Guin, et al., ACM SIGMETRICS Performance Evaluation Review 2021 
 - [Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks](https://ieeexplore.ieee.org/iel7/9643591/9643617/09643686.pdf) by Zhao, Han, et al., ICDC 2021
-- [Online Thread Auto-Tuning for Performance Improvement and Resource Saving](https://ieeexplore.ieee.org/iel7/71/4359390/09762963.pdf) Luan, Guangqiang, et al., IEEE TPDS 2021
+- [Online Thread Auto-Tuning for Performance Improvement and Resource Saving](https://ieeexplore.ieee.org/iel7/71/4359390/09762963.pdf) by Luan, Guangqiang, et al., IEEE TPDS 2021
+- [Hsm: A hybrid slowdown model for multitasking gpus](https://dl.acm.org/doi/pdf/10.1145/3373376.3378457) by Zhao, Xia, Magnus Jahre, and Lieven Eeckhout., ASPLOS 2020
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
