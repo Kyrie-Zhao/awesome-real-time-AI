@@ -125,6 +125,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming](https://ieeexplore.ieee.org/iel7/7551325/7551326/07551396.pdf) by Xu, Qiumin, et al., ISCA 2016
 - [Kernelet: High-Throughput GPU Kernel Executions with Dynamic Slicing and Scheduling](https://ieeexplore.ieee.org/iel7/71/4359390/06624111.pdf) by Zhong, Jianlong, and Bingsheng He. IEEE TPDS 2013
 - [Improving GPGPU concurrency with elastic kernels](https://dl.acm.org/doi/pdf/10.1145/2490301.2451160) by Pai, Sreepathi, Matthew J. Thazhuthaveetil, and Ramaswamy Govindarajan., ACM SIGARCH Computer Architecture News 2013
+- [Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs](https://ieeexplore.ieee.org/iel7/6603429/6618788/06618813.pdf) Kayıran, Onur, et al. ICPCT 2013
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
