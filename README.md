@@ -121,6 +121,10 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Exploiting Intra-SM Parallelism in GPUs via Persistent and Elastic Blocks](https://ieeexplore.ieee.org/iel7/9643591/9643617/09643686.pdf) by Zhao, Han, et al., ICDC 2021
 - [Online Thread Auto-Tuning for Performance Improvement and Resource Saving](https://ieeexplore.ieee.org/iel7/71/4359390/09762963.pdf) by Luan, Guangqiang, et al., IEEE TPDS 2021
 - [Hsm: A hybrid slowdown model for multitasking gpus](https://dl.acm.org/doi/pdf/10.1145/3373376.3378457) by Zhao, Xia, Magnus Jahre, and Lieven Eeckhout., ASPLOS 2020
+- [Enabling and exploiting flexible task assignment on GPU through SM-centric program transformations](https://dl.acm.org/doi/pdf/10.1145/2751205.2751213) by Wu, Bo, et al., ACM ICS 2015
+- [Warped-Slicer: Efficient Intra-SM Slicing through Dynamic Resource Partitioning for GPU Multiprogramming](https://ieeexplore.ieee.org/iel7/7551325/7551326/07551396.pdf) by Xu, Qiumin, et al., ISCA 2016
+- [Kernelet: High-Throughput GPU Kernel Executions with Dynamic Slicing and Scheduling](https://ieeexplore.ieee.org/iel7/71/4359390/06624111.pdf) by Zhong, Jianlong, and Bingsheng He. IEEE TPDS 2013
+- [Improving GPGPU concurrency with elastic kernels](https://dl.acm.org/doi/pdf/10.1145/2490301.2451160) by Pai, Sreepathi, Matthew J. Thazhuthaveetil, and Ramaswamy Govindarajan., ACM SIGARCH Computer Architecture News 2013
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
