@@ -65,6 +65,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [AutoGTCO: Graph and Tensor Co-Optimize for Image Recognition with Transformers on GPU](https://ieeexplore.ieee.org/iel7/9643423/9643432/09643487.pdf?casa_token=LyByXa84XpMAAAAA:4qRC6_8TE6iVgSlL0NMKy4tRJ6aoDB47fqcGVxhwM7dL1nddqsVuIs2dAmHVGrCN8dBhTCE) by Bai, Yang, et al., ICCAD 2021
 - [DietCode: Automatic Optimization for Dynamic Tensor Programs](https://proceedings.mlsys.org/paper/2022/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf) by Zheng, Bojian, et al., MLSys 2022
 - [ROLLER: Fast and Efficient Tensor Compilation for Deep Learning](https://www.usenix.org/system/files/osdi22-zhu.pdf) by Zhu, Hongyu, et al., OSDI 2022
+- [FamilySeer: Towards Optimized Tensor Codes by Exploiting Computation Subgraph Similarity](https://arxiv.org/pdf/2201.00194) by Zhang, Shanjun, et al., arxiv 2022
+- [Reusing Auto-Schedules for Efficient DNN Compilation](https://arxiv.org/pdf/2201.05587) by Gibson, Perry, and José Cano., arxiv 2022
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
