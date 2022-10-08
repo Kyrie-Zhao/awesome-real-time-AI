@@ -97,7 +97,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Nestdnn: Resource-aware multi-tenant on-device deep learning for continuous mobile vision](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559) by Fang, Biyi, Xiao Zeng, and Mi Zhang., MobiCom 2018
 - [Flep: Enabling flexible and efficient preemption on gpus](https://dl.acm.org/doi/pdf/10.1145/3093336.3037742) by Wu, Bo, et al., ASPLOS 2017
 - [Prophet: Precise qos prediction on non-preemptive accelerators to improve utilization in warehouse-scale computers](https://dl.acm.org/doi/pdf/10.1145/3037697.3037700) by Chen, Quan, et al., ASPLOS 2017
-- [PAME: precision-aware multi-exit DNN serving for reducing latencies of batched inferences](https://dl.acm.org/doi/pdf/10.1145/3524059.3532366?casa_token=D31LanqCaE4AAAAA:BSK0aEULjkZAYdi0H6Xionzf1MkbCSxVoKlZJNKkGbpTdGf2iJ3mBxBGmERIU4toYqSlVcDKyA) by Zhang, Shulai, et al., 
+- [PAME: precision-aware multi-exit DNN serving for reducing latencies of batched inferences](https://dl.acm.org/doi/pdf/10.1145/3524059.3532366?casa_token=D31LanqCaE4AAAAA:BSK0aEULjkZAYdi0H6Xionzf1MkbCSxVoKlZJNKkGbpTdGf2iJ3mBxBGmERIU4toYqSlVcDKyA) by Zhang, Shulai, et al., ICS 2022
+- [Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling](https://ieeexplore.ieee.org/iel7/9406784/9407034/09407236.pdf) by Oh, Young H., et al., HPCA 2021
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
