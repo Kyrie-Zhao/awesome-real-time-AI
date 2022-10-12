@@ -33,6 +33,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [INFaas](https://github.com/stanford-mast/INFaaS)
 - [REEF](https://github.com/SJTU-IPADS/reef)
 - [DeepSparse Engine](https://github.com/neuralmagic/deepsparse)
+- [AlphaTensor](https://github.com/deepmind/alphatensor)
 
 ## Papers
 
