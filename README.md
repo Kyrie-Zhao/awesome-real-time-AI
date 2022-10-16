@@ -100,6 +100,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Prophet: Precise qos prediction on non-preemptive accelerators to improve utilization in warehouse-scale computers](https://dl.acm.org/doi/pdf/10.1145/3037697.3037700) by Chen, Quan, et al., ASPLOS 2017
 - [PAME: precision-aware multi-exit DNN serving for reducing latencies of batched inferences](https://dl.acm.org/doi/pdf/10.1145/3524059.3532366?casa_token=D31LanqCaE4AAAAA:BSK0aEULjkZAYdi0H6Xionzf1MkbCSxVoKlZJNKkGbpTdGf2iJ3mBxBGmERIU4toYqSlVcDKyA) by Zhang, Shulai, et al., ICS 2022
 - [Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling](https://ieeexplore.ieee.org/iel7/9406784/9407034/09407236.pdf) by Oh, Young H., et al., HPCA 2021
+- [LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577) by Xu, Ran, et al., EuroSys 2022
+- [ApproxNet: Content and contention-aware video object classification system for embedded clients](https://dl.acm.org/doi/pdf/10.1145/3463530) Xu, Ran, et al. 
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
