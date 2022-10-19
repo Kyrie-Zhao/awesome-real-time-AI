@@ -44,6 +44,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [AI Augmented Edge and Fog Computing: Trends and Challenges](https://arxiv.org/pdf/2208.00761) by Tuli S, Mirhakimi F, Pallewatta S, et al., arxiv 2022
 - [Enable deep learning on mobile devices: Methods, systems, and applications](https://dl.acm.org/doi/pdf/10.1145/3486618) by Cai, Han, et al., TODAES 2022
 - [Multi-DNN Accelerators for Next-Generation AI Systems](https://arxiv.org/pdf/2205.09376) by Venieris, Stylianos I., Christos-Savvas Bouganis, and Nicholas D. Lane., arxiv 2022
+- [A Survey of GPU Multitasking Methods Supported by Hardware Architecture](https://ieeexplore.ieee.org/iel7/71/4359390/09548839.pdf) Zhao, Chen, et al., IEEE TPDS 2021
 
 ### DNN Compiler
 - [TASO: The Tensor Algebra SuperOptimizer for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3341301.3359630) by Zhihao Jia et al., SOSP 2019
