@@ -136,6 +136,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs](https://ieeexplore.ieee.org/iel7/6603429/6618788/06618813.pdf) Kayıran, Onur, et al. ICPCT 2013
 - [Orion: A framework for gpu occupancy tuning](https://dl.acm.org/doi/pdf/10.1145/2988336.2988355) by Hayes, Ari B., et al., International Middleware Conference. 2016
 - [Efficient performance estimation and work-group size pruning for OpenCl kernels on GPUs](https://ieeexplore.ieee.org/iel7/71/4359390/08928962.pdf) by Wang, Xiebing, et al., IEEE TPDS 2019
+- [Online evolutionary batch size orchestration for scheduling deep learning workloads in GPU clusters](https://dl.acm.org/doi/pdf/10.1145/3458817.3480859) by Bian, Zhengda, et al., SC 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
