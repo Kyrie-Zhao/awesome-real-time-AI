@@ -139,6 +139,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Online evolutionary batch size orchestration for scheduling deep learning workloads in GPU clusters](https://dl.acm.org/doi/pdf/10.1145/3458817.3480859) by Bian, Zhengda, et al., SC 2021
 - [Autotuning GPU kernels via static and predictive analysis](https://ieeexplore.ieee.org/iel7/8023017/8025263/08025326.pdf) by Lim, Robert, Boyana Norris, and Allen Malony., IEEE ICPP 2017
 - [Gslice: controlled spatial sharing of gpus for a scalable inference platform](https://dl.acm.org/doi/pdf/10.1145/3419111.3421284) by Dhakal, Aditya, Sameer G. Kulkarni, and K. K. Ramakrishnan., SOCC 2020
+- [Fractional GPUs: Software-based compute and memory bandwidth reservation for GPUs](https://ieeexplore.ieee.org/iel7/8738782/8743157/08743200.pdf) by Jain, Saksham, et al., RTAS 2019
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
