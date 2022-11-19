@@ -104,6 +104,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling](https://ieeexplore.ieee.org/iel7/9406784/9407034/09407236.pdf) by Oh, Young H., et al., HPCA 2021
 - [LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577) by Xu, Ran, et al., EuroSys 2022
 - [ApproxNet: Content and contention-aware video object classification system for embedded clients](https://dl.acm.org/doi/pdf/10.1145/3463530) Xu, Ran, et al. 
+- [Accelerating deep learning workloads through efficient multi-model execution](https://deepakn94.github.io/assets/papers/modelbatch-neurips18.pdf) Narayanan, Deepak, et al., NeurIPS Worksho 2018
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
@@ -140,14 +141,16 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Autotuning GPU kernels via static and predictive analysis](https://ieeexplore.ieee.org/iel7/8023017/8025263/08025326.pdf) by Lim, Robert, Boyana Norris, and Allen Malony., IEEE ICPP 2017
 - [Gslice: controlled spatial sharing of gpus for a scalable inference platform](https://dl.acm.org/doi/pdf/10.1145/3419111.3421284) by Dhakal, Aditya, Sameer G. Kulkarni, and K. K. Ramakrishnan., SOCC 2020
 - [Fractional GPUs: Software-based compute and memory bandwidth reservation for GPUs](https://ieeexplore.ieee.org/iel7/8738782/8743157/08743200.pdf) by Jain, Saksham, et al., RTAS 2019
+- [Effisha: A software framework for enabling effficient preemptive scheduling of gpu](https://dl.acm.org/doi/pdf/10.1145/3018743.3018748) by Chen, Guoyang, et al., PPoPP 2017
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
 - [MAPLE-Edge: A Runtime Latency Predictor for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/EVW/papers/Nair_MAPLE-Edge_A_Runtime_Latency_Predictor_for_Edge_Devices_CVPRW_2022_paper.pdf) by Nair, Saeejith, et al., CVPR 2022
 - [Maple: Microprocessor a priori for latency estimation](https://openaccess.thecvf.com/content/CVPR2022W/ECV/papers/Abbasi_MAPLE_Microprocessor_a_Priori_for_Latency_Estimation_CVPRW_2022_paper.pdf) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., CVPR 2022
 - [nn-Meter: towards accurate latency prediction of deep-learning model inference on diverse edge devices](https://dl.acm.org/doi/pdf/10.1145/3458864.3467882?casa_token=XqdJMALxIdkAAAAA:VhfaRoo7fWSlLOERqfqPcTjW4NfsBB0EXG7AKTw-s_eUFjMscdzTK6oU1kAPREY6nlF2jqO43PTk6g) by Zhang, Li Lyna, et al., MobiSys 2021
-- [Wei, Mengze, et al. "Predicting and reining in application-level slowdown on spatial multitasking GPUs.](https://www.sciencedirect.com/science/article/pii/S0743731519307361) by Wei, Mengze, et al., JPDC 2020
-
+- [Predicting and reining in application-level slowdown on spatial multitasking GPUs](https://www.sciencedirect.com/science/article/pii/S0743731519307361) by Wei, Mengze, et al., JPDC 2020
+- [A model-based software solution for simultaneous multiple kernels on GPUs](https://dl.acm.org/doi/pdf/10.1145/3377138) by Wu, Hao, et al., TACO 2020
+- [Smcompactor: a workload-aware fine-grained resource management framework for gpgpus](https://dl.acm.org/doi/pdf/10.1145/3412841.3441989) by Chen, Qichen, et al., SAC 2021 
 
 ### TinyML
 - [Mcunet: Tiny deep learning on iot devices](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf) by Lin, Ji, et al. , NeurIPS 2020
