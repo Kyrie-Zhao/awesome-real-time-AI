@@ -144,6 +144,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Fractional GPUs: Software-based compute and memory bandwidth reservation for GPUs](https://ieeexplore.ieee.org/iel7/8738782/8743157/08743200.pdf) by Jain, Saksham, et al., RTAS 2019
 - [Effisha: A software framework for enabling effficient preemptive scheduling of gpu](https://dl.acm.org/doi/pdf/10.1145/3018743.3018748) by Chen, Guoyang, et al., PPoPP 2017
 - [Automatic thread-block size adjustment for memory-bound BLAS kernels on GPUs](https://scholar.google.com/scholar?output=instlink&q=info:bwsEVr7reLMJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=9726475852967981232&oi=lle) by Mukunoki, Daichi, Toshiyuki Imamura, and Daisuke Takahashi., MCSOC 2016
+- [FlexSched: Efficient scheduling techniques for concurrent kernel execution on GPUs](https://link.springer.com/article/10.1007/s11227-021-03819-z) by López-Albelda, Bernabé, et al., The Journal of Supercomputing 2022
+- [Simultaneous multikernel GPU: Multi-tasking throughput processors via fine-grained sharing](https://ieeexplore.ieee.org/iel7/7440961/7446041/07446078.pdf) Wang, Zhenning, et al., HPCA 2016
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
