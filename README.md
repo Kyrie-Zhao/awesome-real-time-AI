@@ -34,6 +34,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [REEF](https://github.com/SJTU-IPADS/reef)
 - [DeepSparse Engine](https://github.com/neuralmagic/deepsparse)
 - [AlphaTensor](https://github.com/deepmind/alphatensor)
+- [JAX](https://github.com/google/jax)
 
 ## Papers
 
