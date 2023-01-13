@@ -20,6 +20,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [TinyML](#tinyml)
   - [Multi-modality Inference](#multi-modality-inference)
   - [Sparse Inference](#sparse-inference)
+  - [Privacy-aware Inference](#privacy-aware-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
 ## Benchmark and Dataset
@@ -181,6 +182,11 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Efficient Sparse Matrix Kernels based on Adaptive Workload-Balancing and Parallel-Reduction](https://arxiv.org/pdf/2106.16064) by Huang, Guyue, et al., arxiv 2021
 - [COEXE: An Efficient Co-execution Architecture for Real-Time Neural Network Services](https://ieeexplore.ieee.org/iel7/9211868/9218488/09218740.pdf) by Liu, Chubo, et al., DAC 2020
 - [TorchSparse: Efficient Point Cloud Inference Engine](https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf) by Tang, Haotian, et al., MLSys 2022
+
+### Privacy-aware Inference
+- [SecureTVM: A TVM-Based Compiler Framework for Selective Privacy-Preserving Neural Inference](https://dl.acm.org/doi/pdf/10.1145/3579049) by Huang, Po-Hsuan, et al., TODAES 2023
+- [PolyMPCNet: Towards ReLU-free Neural Architecture Search in Two-party Computation Based Private Inference](https://arxiv.org/pdf/2209.09424) by Peng, Hongwu, et al., arxiv 2023
+- [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference](https://www.usenix.org/system/files/sec22fall_huang-zhicong.pdf) by Huang, Zhicong, et al.,  IACR Cryptol 2022
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
