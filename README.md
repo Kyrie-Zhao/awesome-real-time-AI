@@ -39,7 +39,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 
 ## Papers
 
-### SurveyCortex: A Compiler for Recursive Deep Learning Models
+### Survey
 - [Edge Intelligence: Architectures, Challenges, and Applications](https://arxiv.org/pdf/2003.12172) by Xu, Dianlei, et al., arxiv 2020
 - [A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/pdf/2203.09040) by Yu, Fuxun, et al., arxiv 2022
 - [Machine Learning in Real-Time Internet of Things (IoT) Systems: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9739684) by Bian, Jiang, et al., IOTJ 2022
@@ -74,6 +74,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Reusing Auto-Schedules for Efficient DNN Compilation](https://arxiv.org/pdf/2201.05587) by Gibson, Perry, and José Cano., arxiv 2022
 - [Hidet: Task Mapping Programming Paradigm for Deep Learning Tensor Programs](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hidet%3A+Task+Mapping+Programming+Paradigm+for+Deep+Learning+Tensor+Programs&btnG=#d=gs_cit&t=1666445708655&u=%2Fscholar%3Fq%3Dinfo%3Ahj_cZ1YLpt8J%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den) by Ding, Yaoyao, et al., arxiv 2022
 - [Cortex: A Compiler for Recursive Deep Learning Models](https://proceedings.mlsys.org/paper/2021/file/182be0c5cdcd5072bb1864cdee4d3d6e-Paper.pdf) by Fegade, Pratik, et al., MLSys 2021
+- [SuperScaler: Supporting Flexible DNN Parallelization via a Unified Abstraction](https://arxiv.org/pdf/2301.08984) by Lin, Zhiqi, et al., arxiv 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
