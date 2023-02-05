@@ -122,6 +122,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Efficient Execution of Deep Neural Networks on Mobile Devices with NPU](https://dl.acm.org/doi/pdf/10.1145/3412382.3458272) by Tan, Tianxiang, and Guohong Cao., IPSN 2021
 - [CoDL: efficient CPU-GPU co-execution for deep learning inference on mobile devices](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/mobisys22-CoDL__Efficient_CPU_GPU_Co_execution_for_DL_Model_Inference_on_Mobile_Devices-4.pdf) by Jia, Fucheng, et al., MobiSys 2022
 - [Coda: Improving resource utilization by slimming and co-locating dnn and cpu jobs](https://ieeexplore.ieee.org/iel7/9355572/9355578/09355823.pdf) by Zhao, Han, et al. ICDCS 2020
+- [OPTiC: Opti- mizing Collaborative CPU–GPU Computing on Mobile Devices With Thermal Constraint](https://www.comp.nus.edu.sg/~tulika/OPTiC.pdf) by Wang, Siqi, Gayathri Ananthanarayanan, and Tulika Mitra., IEEE TCAD 2019
 
 
 ### HPC and Archs
