@@ -36,6 +36,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [DeepSparse Engine](https://github.com/neuralmagic/deepsparse)
 - [AlphaTensor](https://github.com/deepmind/alphatensor)
 - [JAX](https://github.com/google/jax)
+- [Hidet](https://github.com/yaoyaoding/hidet-artifacts)
 
 ## Papers
 
