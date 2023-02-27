@@ -79,6 +79,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Seastar: Vertex-Centric Programming for Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3447786.3456247) by Wu, Yidi, et al., EuroSys 2021
 - [On Optimizing the Communication of Model Parallelism](https://arxiv.org/pdf/2211.05322) by Zhuang, Yonghao, et al., MLSys 2023
 - [ALT: Boosting Deep Learning Performance by Breaking the Wall between Graph and Operator Level Optimizations](https://arxiv.org/pdf/2210.12415) by Xu, Zhiying, et al., arxiv 2022
+- [AGO: Boosting Mobile AI Inference Performance by Removing Constraints on Graph Optimization](https://arxiv.org/pdf/2212.01005) by Xu, Zhiying, Hongding Peng, and Wei Wang., INFOCOM 2023 
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
