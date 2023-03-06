@@ -161,6 +161,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Optimum: Runtime Optimization for Multiple Mixed Model Deployment Deep Learning Inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305614) by Kaicheng, Guo, et al., preprint 2022
 - [Exploring AMD GPU scheduling details by experimenting with “worst practices”](https://dl.acm.org/doi/pdf/10.1145/3453417.3453432) by Otterness, Nathan, and James H. Anderson., RTNS 2021
 - [Making Powerful Enemies on NVIDIA GPUs](https://ieeexplore.ieee.org/iel7/9984704/9984706/09984754.pdf) by Yandrofski, Tyler, et al., RTSS 2022
+- [Contention-Aware GPU Partitioning and Task-to-Partition Allocation for Real-Time Workloads](https://dl.acm.org/doi/pdf/10.1145/3453417.3453439) by Zahaf, Houssam-Eddine, et al., RTNS 2021
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
