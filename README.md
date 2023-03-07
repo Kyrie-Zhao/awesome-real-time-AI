@@ -83,6 +83,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [ALT: Boosting Deep Learning Performance by Breaking the Wall between Graph and Operator Level Optimizations](https://arxiv.org/pdf/2210.12415) by Xu, Zhiying, et al., arxiv 2022
 - [AGO: Boosting Mobile AI Inference Performance by Removing Constraints on Graph Optimization](https://arxiv.org/pdf/2212.01005) by Xu, Zhiying, Hongding Peng, and Wei Wang., INFOCOM 2023 
 - [Enabling Data Movement and Computation Pipelining in Deep Learning Compiler](https://arxiv.org/pdf/2210.16691) by Huang, Guyue, et al., MLSys 2023
+- [Automatic Horizontal Fusion for GPU Kernels](https://ieeexplore.ieee.org/iel7/9741235/9741095/09741270.pdf) by Li, Ao, et al., CGO 2022
+- [Compiler Framework for Optimizing Dynamic Parallelism on GPUs](https://ieeexplore.ieee.org/iel7/9741235/9741095/09741284.pdf) by Olabi, Mhd Ghaith, et al., CGO 2022
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
