@@ -64,7 +64,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Romou: Rapidly Generate High-Performance Tensor Kernels for Mobile GPUs](https://www.microsoft.com/en-us/research/uploads/prod/2022/02/mobigpu_mobicom22_camera.pdf) by Liang, Rendong, et al., MobiCom 2022
 - [Asymo: scalable and efficient deep-learning inference on asymmetric mobile cpus](https://dl.acm.org/doi/abs/10.1145/3447993.3448625) by Wang, Manni, et al., MobiCom 2021
 - [Ios: Inter-operator scheduler for cnn acceleration](https://proceedings.mlsys.org/paper/2021/file/38b3eff8baf56627478ec76a704e9b52-Paper.pdf) by Ding, Yaoyao, et al., MLSys 2021
-- [Moses: Efficient Exploitation of Cross-device Transferable Features for Tensor Program Optimization](https://arxiv.org/pdf/2201.05752) by Zhao, Zhihe, et al., arxiv 2022
+- [Moses: Efficient Exploitation of Cross-device Transferable Features for Tensor Program Optimization](https://dl.acm.org/doi/pdf/10.1145/3572864.3580330) by Zhao, Zhihe, et al., HotMobile 2023
 - [DeepCuts: A Deep Learning Optimization Framework for Versatile GPU Workloads](https://dl.acm.org/doi/pdf/10.1145/3453483.3454038) by Jung, Wookeun, Thanh Tuan Dao, and Jaejin Lee., PLDI 2021
 - [CASE: a compiler-assisted SchEduling framework for multi-GPU systems](https://dl.acm.org/doi/pdf/10.1145/3503221.3508423?casa_token=c738_W6lYCkAAAAA:QcpPBlGQcRjbfbnr99-N7fJXV5ssZMVL9odTdrfRFRLXtaOcAAQOeh3JwhEeaQvOEpX1IRJquURmTg) by Chen, Chao, Chris Porter, and Santosh Pande., PPoPP 2022
 - [Chameleon: Adaptive code optimization for expedited deep neural network compilation](https://arxiv.org/pdf/2001.08743) by Ahn, Byung Hoon, et al., arxiv 2020
@@ -85,6 +85,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Enabling Data Movement and Computation Pipelining in Deep Learning Compiler](https://arxiv.org/pdf/2210.16691) by Huang, Guyue, et al., MLSys 2023
 - [Automatic Horizontal Fusion for GPU Kernels](https://ieeexplore.ieee.org/iel7/9741235/9741095/09741270.pdf) by Li, Ao, et al., CGO 2022
 - [Compiler Framework for Optimizing Dynamic Parallelism on GPUs](https://ieeexplore.ieee.org/iel7/9741235/9741095/09741284.pdf) by Olabi, Mhd Ghaith, et al., CGO 2022
+- [Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation](https://www.dcs.gla.ac.uk/~josecr/pub/2022_pact.pdf) by Gibson, Perry, and José Cano., PACT 2022
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
