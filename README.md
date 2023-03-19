@@ -87,6 +87,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Compiler Framework for Optimizing Dynamic Parallelism on GPUs](https://ieeexplore.ieee.org/iel7/9741235/9741095/09741284.pdf) by Olabi, Mhd Ghaith, et al., CGO 2022
 - [Transfer-Tuning: Reusing Auto-Schedules for Efficient Tensor Program Code Generation](https://www.dcs.gla.ac.uk/~josecr/pub/2022_pact.pdf) by Gibson, Perry, and José Cano., PACT 2022
 - [Nnsmith: Generating diverse and valid test cases for deep learning compilers](https://dl.acm.org/doi/pdf/10.1145/3575693.3575707?casa_token=FmJqEQzBGBoAAAAA:OmPVufwYG4r5CFS0G-GXFJ8wu9PGueUvYzoXkPz60Kg_IkVIwvk4rlbQ5eY8hFhWcWkOmAdO21l-) by Liu, Jiawei, et al., ASPLOS 2023
+- [Codon: A Compiler for High-Performance Pythonic Applications and DSLs](https://dl.acm.org/doi/pdf/10.1145/3578360.3580275) by Shajii, Ariya, et al., CC 2023
+- [CMLCompiler: A Unified Compiler for Classical Machine Learning](https://arxiv.org/pdf/2301.13441) by Wen, Xu, et al., arxiv 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
