@@ -39,6 +39,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Hidet](https://github.com/yaoyaoding/hidet-artifacts)
 - [FreeTensor](https://github.com/roastduck/FreeTensor)
 - [MAESTRO](https://github.com/maestro-project)
+- [IREE](https://github.com/openxla/iree)
 
 ## Papers
 
