@@ -94,6 +94,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Composable and Modular Code Generation in MLIR](https://arxiv.org/pdf/2202.03293) by Vasilache, Nicolas, et al., arxiv 2022
 - [TinyIREE: An ML Execution Environment for Embedded Systems from Compilation to Deployment](https://arxiv.org/pdf/2205.14479) by Liu, Hsin-I. Cindy, et al., arxiv 2022
 - [High Performance GPU Code Generation for Matrix-Matrix Multiplication using MLIR Some Early Results](https://arxiv.org/pdf/2108.13191) by Katel, Navdeep, Vivek Khandelwal, and Uday Bondhugula., arxiv 2021
+- [Auto-Parallelizing Large Models with Rhino: A Systematic Approach on Production AI Platform](https://arxiv.org/pdf/2302.08141) by Zhang, Shiwei, et al., arxiv 2023
 
 
 ### Edge-Cloud Collaborative Inference
