@@ -27,15 +27,16 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [MLPerf](https://github.com/mlcommons/inference)
 - [Tracy Profiler](https://github.com/wolfpld/tracy)
 - [CUDA Flux](https://github.com/UniHD-CEG/cuda-flux)
-- [Tango: A Deep Neural Network Benchmark Suite for Various Accelerators](https://gitlab.com/Tango-DNNbench/Tango)
+- [Tango](https://gitlab.com/Tango-DNNbench/Tango)
 
 ## Open Source Projects
 - [TVM](https://tvm.apache.org/)
+- [MLIR](https://github.com/tensorflow/mlir)
 - [KubeEdge](https://github.com/kubeedge/kubeedge)
 - [RAF](https://github.com/awslabs/raf.git)
 - [INFaas](https://github.com/stanford-mast/INFaaS)
 - [REEF](https://github.com/SJTU-IPADS/reef)
-- [DeepSparse Engine](https://github.com/neuralmagic/deepsparse)
+- [DeepSparse](https://github.com/neuralmagic/deepsparse)
 - [AlphaTensor](https://github.com/deepmind/alphatensor)
 - [JAX](https://github.com/google/jax)
 - [Hidet](https://github.com/yaoyaoding/hidet-artifacts)
