@@ -23,8 +23,10 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Privacy-aware Inference](#privacy-aware-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
-## Benchmark and Dataset
+## Benchmark, Profiler and Dataset
 - [MLPerf](https://github.com/mlcommons/inference)
+- [Tracy Profiler](https://github.com/wolfpld/tracy)
+- [CUDA Flux](https://github.com/UniHD-CEG/cuda-flux)
 - [Tango: A Deep Neural Network Benchmark Suite for Various Accelerators](https://gitlab.com/Tango-DNNbench/Tango)
 
 ## Open Source Projects
