@@ -98,6 +98,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [TinyIREE: An ML Execution Environment for Embedded Systems from Compilation to Deployment](https://arxiv.org/pdf/2205.14479) by Liu, Hsin-I. Cindy, et al., arxiv 2022
 - [High Performance GPU Code Generation for Matrix-Matrix Multiplication using MLIR Some Early Results](https://arxiv.org/pdf/2108.13191) by Katel, Navdeep, Vivek Khandelwal, and Uday Bondhugula., arxiv 2021
 - [Auto-Parallelizing Large Models with Rhino: A Systematic Approach on Production AI Platform](https://arxiv.org/pdf/2302.08141) by Zhang, Shiwei, et al., arxiv 2023
+- [Triton: an intermediate language and compiler for tiled neural network computations](https://dl.acm.org/doi/pdf/10.1145/3315508.3329973) by Tillet, Philippe, Hsiang-Tsung Kung, and David Cox., SIGPLAN Workshop 2019
+- [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf) by Dao, Tri, et al., NeurIPS 2022
 
 
 ### Edge-Cloud Collaborative Inference
