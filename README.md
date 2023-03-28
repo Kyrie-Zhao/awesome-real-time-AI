@@ -101,6 +101,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Triton: an intermediate language and compiler for tiled neural network computations](https://dl.acm.org/doi/pdf/10.1145/3315508.3329973) by Tillet, Philippe, Hsiang-Tsung Kung, and David Cox., SIGPLAN Workshop 2019
 - [Flashattention: Fast and memory-efficient exact attention with io-awareness](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf) by Dao, Tri, et al., NeurIPS 2022
 - [Graphene: An IR for Optimized Tensor Computations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582018) by Hagedorn, Bastian, et al., ASPLOS 2023
+- [Tensorir: An abstraction for automatic tensorized program optimization](https://dl.acm.org/doi/pdf/10.1145/3575693.3576933) by Feng, Siyuan, et al., ASPLOS 2023
+- [SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning](https://arxiv.org/pdf/2207.04606) by Ye, Zihao, et al., ASPLOS 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
