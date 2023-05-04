@@ -191,6 +191,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Predicting and reining in application-level slowdown on spatial multitasking GPUs](https://www.sciencedirect.com/science/article/pii/S0743731519307361) by Wei, Mengze, et al., JPDC 2020
 - [A model-based software solution for simultaneous multiple kernels on GPUs](https://dl.acm.org/doi/pdf/10.1145/3377138) by Wu, Hao, et al., TACO 2020
 - [Smcompactor: a workload-aware fine-grained resource management framework for gpgpus](https://dl.acm.org/doi/pdf/10.1145/3412841.3441989) by Chen, Qichen, et al., SAC 2021 
+- [Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training](https://www.usenix.org/system/files/atc21-yu.pdf) by Geoffrey, X. Yu, et al., ATC 2021
 
 ### TinyML
 - [Mcunet: Tiny deep learning on iot devices](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf) by Lin, Ji, et al. , NeurIPS 2020
