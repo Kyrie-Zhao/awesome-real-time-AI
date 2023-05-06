@@ -21,6 +21,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Multi-modality Inference](#multi-modality-inference)
   - [Sparse Inference](#sparse-inference)
   - [Privacy-aware Inference](#privacy-aware-inference)
+  - [LLM](#llm)
   - [Other Cool Ideas](#other-cool-ideas)
  
 ## Benchmark, Profiler and Dataset
@@ -218,6 +219,9 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [SecureTVM: A TVM-Based Compiler Framework for Selective Privacy-Preserving Neural Inference](https://dl.acm.org/doi/pdf/10.1145/3579049) by Huang, Po-Hsuan, et al., TODAES 2023
 - [PolyMPCNet: Towards ReLU-free Neural Architecture Search in Two-party Computation Based Private Inference](https://arxiv.org/pdf/2209.09424) by Peng, Hongwu, et al., arxiv 2023
 - [Cheetah: Lean and Fast Secure Two-Party Deep Neural Network Inference](https://www.usenix.org/system/files/sec22fall_huang-zhicong.pdf) by Huang, Zhicong, et al.,  IACR Cryptol 2022
+
+### LLM
+- [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) by Shah, Dhruv, Błażej Osiński, and Sergey Levine., PMLR 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
