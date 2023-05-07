@@ -223,6 +223,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 ### LLM
 - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) by Shah, Dhruv, Błażej Osiński, and Sergey Levine., PMLR 2023
 - [Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks](https://arxiv.org/pdf/2304.03446) by Du, Hongyang, et al., arxiv 2023
+- [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/pdf/2303.06865) by Sheng, Ying, et al., ICML 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
