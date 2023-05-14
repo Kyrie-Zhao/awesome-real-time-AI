@@ -114,7 +114,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Deep compressive offloading: Speeding up neural network inference by trading edge computation for network latency.](https://dl.acm.org/doi/pdf/10.1145/3384419.3430898) by Yao, Shuochao, et al., SenSys 2020
 - [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://dl.acm.org/doi/pdf/10.1145/3447993.3448628) by Zhang, Wuyang, et al., MobiCom 2021
 - [Edge assisted real-time object detection for mobile augmented reality](https://dl.acm.org/doi/pdf/10.1145/3300061.3300116) by Liu, Luyang, Hongyu Li, and Marco Gruteser., MobiCom 2019
-- [Mistify: Automating dnn model porting for on-device inference at the edge](https://www.usenix.org/system/files/nsdi21-guo.pdf) by Guo, Peizhen, Bo Hu, and Wenjun Hu., 
+- [Mistify: Automating dnn model porting for on-device inference at the edge](https://www.usenix.org/system/files/nsdi21-guo.pdf) by Guo, Peizhen, Bo Hu, and Wenjun Hu., NSDI 2021
+- [AdaptiveNet: Post-deployment Neural Architecture Adaptation for Diverse Edge Environments](https://arxiv.org/pdf/2303.07129.pdf) by Wen, Hao, et al., MobiCom 2023
 
 ### Concurrent DNN Inference
 - [VELTAIR: towards high-performance multi-tenant deep learning services via adaptive compilation and scheduling](https://dl.acm.org/doi/pdf/10.1145/3503222.3507752?casa_token=4WEkiHRYJHEAAAAA:Ae8yvTck-swW5LDJ3Cx3spak5Q2IzfRIVvPAvEG3zHkCudGBF0R4-XxeJk1hBaS4LmzCmxaAqNenCg) by Liu, Zihan, et al., ASPLOS 2021
