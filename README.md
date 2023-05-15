@@ -230,6 +230,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3552326.3587438?casa_token=2Ju1tOw9-OQAAAAA:JiW7lFRbuCbNQp8JxLKq0_Fu5O2HnPKnCtXSBuWYiW0HOJa5AhUEhvaAQVBVoyDN0qAgI2abM73h20A) by Wang, Yiding, et al. EuroSys 2023
 - [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under reivew
 - [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
+- [Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens](https://arxiv.org/pdf/2305.04241) by Zeng, Zhanpeng, et al., arxiv 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
