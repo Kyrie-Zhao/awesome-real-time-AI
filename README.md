@@ -231,6 +231,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under reivew
 - [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
 - [Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens](https://arxiv.org/pdf/2305.04241) by Zeng, Zhanpeng, et al., arxiv 2023
+- [SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/pdf/2305.09781) by Miao, Xupeng, et al., arxiv 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
