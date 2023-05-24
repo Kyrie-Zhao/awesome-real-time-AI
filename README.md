@@ -235,6 +235,9 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102) by Pope, Reiner, et al., arxiv 2022
 - [TopoopT: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf) by Wang, Weiyang, et al., NSDI 2023
 - [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/system/files/nsdi23-hwang.pdf) by Hwang, Changho, et al., NSDI 2023
+- [Breadth-First Pipeline Parallelism](https://arxiv.org/pdf/2211.05953) by Lamy-Poirier, Joel., MLSys 2023
+- [On Optimizing the Communication of Model Parallelism](https://arxiv.org/pdf/2211.05322.pdf) by Zhuang, Yonghao, et al., MLSys 2023
+- [Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://arxiv.org/pdf/2211.13878) by Miao, Xupeng, et al., arxiv 2022
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
