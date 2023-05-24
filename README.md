@@ -233,6 +233,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens](https://arxiv.org/pdf/2305.04241) by Zeng, Zhanpeng, et al., arxiv 2023
 - [SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/pdf/2305.09781) by Miao, Xupeng, et al., arxiv 2023
 - [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102) by Pope, Reiner, et al., arxiv 2022
+- [TopoopT: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf) by Wang, Weiyang, et al., NSDI 2023
+- [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/system/files/nsdi23-hwang.pdf) by Hwang, Changho, et al., NSDI 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
