@@ -22,6 +22,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Sparse Inference](#sparse-inference)
   - [Privacy-aware Inference](#privacy-aware-inference)
   - [LLM](#llm)
+  - [Distributed Inference](#distributed-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
 ## Benchmark, Profiler and Dataset
@@ -44,6 +45,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [FreeTensor](https://github.com/roastduck/FreeTensor)
 - [MAESTRO](https://github.com/maestro-project)
 - [IREE](https://github.com/openxla/iree)
+- [TinyML](https://quip.com/MENbAvuQkrb0)
 
 ## Papers
 
@@ -185,6 +187,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Exploring AMD GPU scheduling details by experimenting with “worst practices”](https://dl.acm.org/doi/pdf/10.1145/3453417.3453432) by Otterness, Nathan, and James H. Anderson., RTNS 2021
 - [Making Powerful Enemies on NVIDIA GPUs](https://ieeexplore.ieee.org/iel7/9984704/9984706/09984754.pdf) by Yandrofski, Tyler, et al., RTSS 2022
 - [Contention-Aware GPU Partitioning and Task-to-Partition Allocation for Real-Time Workloads](https://dl.acm.org/doi/pdf/10.1145/3453417.3453439) by Zahaf, Houssam-Eddine, et al., RTNS 2021
+- [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/system/files/osdi20-bai.pdf) by Bai, Zhihao, et al., OSDI 2020
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
@@ -240,6 +243,10 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [On Optimizing the Communication of Model Parallelism](https://arxiv.org/pdf/2211.05322.pdf) by Zhuang, Yonghao, et al., MLSys 2023
 - [Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://arxiv.org/pdf/2211.13878) by Miao, Xupeng, et al., arxiv 2022
 - [EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models](https://arxiv.org/pdf/2209.02341) by Du, Jiangsu, et al., arxiv 2022
+- [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/pdf/2302.11665) by Li, Zhuohan, et al., OSDI 2023
+
+### Distributed Inference
+- [Distributed inference with deep learning models across heterogeneous edge devices](https://ieeexplore.ieee.org/iel7/9796607/9796652/09796896.pdf?casa_token=Yes91Ag1KIYAAAAA:x7nctoSMgomUb27jn0lErJwVq6i45TDTMxoB489_D04OFxVVMAxwDZGw25wNGThaG9ikYdlqndk) by Hu, Chenghao, and Baochun Li., INFOCOM 2022
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
