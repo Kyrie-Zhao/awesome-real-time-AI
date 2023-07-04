@@ -206,6 +206,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [μNAS: Constrained Neural Architecture Search for Microcontrollers](https://dl.acm.org/doi/pdf/10.1145/3437984.3458836) by Liberis, Edgar, Łukasz Dudziak, and Nicholas D. Lane., EuroMLSys 2021
 - [Memory-efficient Patch-based Inference for Tiny Deep Learning](https://proceedings.neurips.cc/paper/2021/file/1371bccec2447b5aa6d96d2a540fb401-Paper.pdf) by Lin, Ji, et al., NeurIPS 2021
 - [Deep Learning on Microcontrollers: A Study on Deployment Costs and Challenge](https://dl.acm.org/doi/pdf/10.1145/3517207.3526978) by Filip Svoboda, Javier Fernandez-Marques, Edgar Liberis, Nicholas D Lane, EuroMLSys 2022
+- [Space-Efficient TREC for Enabling Deep Learning on Microcontrollers](https://dl.acm.org/doi/pdf/10.1145/3582016.3582062?casa_token=dEzMFkqOBvAAAAAA:EWjdKC4uNQM7ayLGV0J9H3zQg3jti4ZnShLmETkpl7GPQDbmw4jrlxZGLNhrmyNL8pHunWDDlKmuvAo) by Liu, Jiesong, et al., ASPLOS 2023
 
 ### Multi-modality Inference
 - [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
@@ -244,6 +245,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://arxiv.org/pdf/2211.13878) by Miao, Xupeng, et al., arxiv 2022
 - [EnergonAI: An Inference System for 10-100 Billion Parameter Transformer Models](https://arxiv.org/pdf/2209.02341) by Du, Jiangsu, et al., arxiv 2022
 - [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/pdf/2302.11665) by Li, Zhuohan, et al., OSDI 2023
+- [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) by Wang, Shibo, et al., ASPLOS 2023
+- [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698) by Guo, Liwei, Wonkyo Choe, and Felix Xiaozhu Lin., ASPLOS 2023
 
 ### Distributed Inference
 - [Distributed inference with deep learning models across heterogeneous edge devices](https://ieeexplore.ieee.org/iel7/9796607/9796652/09796896.pdf?casa_token=Yes91Ag1KIYAAAAA:x7nctoSMgomUb27jn0lErJwVq6i45TDTMxoB489_D04OFxVVMAxwDZGw25wNGThaG9ikYdlqndk) by Hu, Chenghao, and Baochun Li., INFOCOM 2022
