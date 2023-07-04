@@ -244,9 +244,10 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/pdf/2302.11665) by Li, Zhuohan, et al., OSDI 2023
 - [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) by Wang, Shibo, et al., ASPLOS 2023
 - [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698) by Guo, Liwei, Wonkyo Choe, and Felix Xiaozhu Lin., ASPLOS 2023
-- [Orca: A Distributed Serving System for {Transformer-Based} Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) by Yu, Gyeong-In, et al., OSDI 2022
+- [DeepSpeed-inference: enabling efficient inference of transformer models at unprecedented scale](https://ieeexplore.ieee.org/iel7/10046045/10045783/10046087.pdf?casa_token=-l-VUdoAL9cAAAAA:Zt9pbjDGwTuqtX-RSm6Np74l4mUYuPp6ls_xH-wdaIPQig-A6UduT7xDn8Wcsv05W1imTH08mhU) by Aminabadi, Reza Yazdani, et al., SC 2022
 
 ### Distributed Inference
+- [Orca: A Distributed Serving System for {Transformer-Based} Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) by Yu, Gyeong-In, et al., OSDI 2022
 - [Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks](https://arxiv.org/pdf/2304.03446) by Du, Hongyang, et al., arxiv 2023
 - [Distributed inference with deep learning models across heterogeneous edge devices](https://ieeexplore.ieee.org/iel7/9796607/9796652/09796896.pdf?casa_token=Yes91Ag1KIYAAAAA:x7nctoSMgomUb27jn0lErJwVq6i45TDTMxoB489_D04OFxVVMAxwDZGw25wNGThaG9ikYdlqndk) by Hu, Chenghao, and Baochun Li., INFOCOM 2022
 - [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under review
