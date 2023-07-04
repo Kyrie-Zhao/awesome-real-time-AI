@@ -106,13 +106,14 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Graphene: An IR for Optimized Tensor Computations on GPUs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582018) by Hagedorn, Bastian, et al., ASPLOS 2023
 - [Tensorir: An abstraction for automatic tensorized program optimization](https://dl.acm.org/doi/pdf/10.1145/3575693.3576933) by Feng, Siyuan, et al., ASPLOS 2023
 - [SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning](https://arxiv.org/pdf/2207.04606) by Ye, Zihao, et al., ASPLOS 2023
+- [Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators](https://dl.acm.org/doi/pdf/10.1145/3582016.3582061?casa_token=gFiOV2z11E0AAAAA:14yK3A80hbov2KcRDvVRbewI6UU6_pxYay4lHkFsrvQUdVpIuiFgdG1vE0FyC5VZXhwEWq_MEs787YE) by Bi, Jun, et al., ASPLOS 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
 - [SPINN: synergistic progressive inference of neural networks over device and cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419194) by Laskaridis, Stefanos, et al., MobiCom 2020
 - [Clio: Enabling automatic compilation of deep learning pipelines across iot and cloud](https://dl.acm.org/doi/pdf/10.1145/3372224.3419215?casa_token=XuIaaSOhXj8AAAAA:yC9swMPqSUSKBfe8yFelcaUvzBb3VHrpYroB87OFI0XgbEDZ6-EQipQFpnP9aduYdB3kjOu0MdNcRg) by Huang, Jin, et al., MobiCom 2020
 - [Neurosurgeon: Collaborative intelligence between the cloud and mobile edge](https://dl.acm.org/doi/pdf/10.1145/3093337.3037698) by Kang, Yiping, et al., ASPLOS 2017
-- [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/system/files/nsdi21-guo.pdf) by Guo, Peizhen et al., NSDI 2021
+- [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/system/files/nsdi21-guo.pdf) by Guo, Peizhen, et al., NSDI 2021
 - [Deep compressive offloading: Speeding up neural network inference by trading edge computation for network latency.](https://dl.acm.org/doi/pdf/10.1145/3384419.3430898) by Yao, Shuochao, et al., SenSys 2020
 - [Elf: accelerate high-resolution mobile deep vision with content-aware parallel offloading](https://dl.acm.org/doi/pdf/10.1145/3447993.3448628) by Zhang, Wuyang, et al., MobiCom 2021
 - [Edge assisted real-time object detection for mobile augmented reality](https://dl.acm.org/doi/pdf/10.1145/3300061.3300116) by Liu, Luyang, Hongyu Li, and Marco Gruteser., MobiCom 2019
@@ -141,8 +142,9 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [PAME: precision-aware multi-exit DNN serving for reducing latencies of batched inferences](https://dl.acm.org/doi/pdf/10.1145/3524059.3532366?casa_token=D31LanqCaE4AAAAA:BSK0aEULjkZAYdi0H6Xionzf1MkbCSxVoKlZJNKkGbpTdGf2iJ3mBxBGmERIU4toYqSlVcDKyA) by Zhang, Shulai, et al., ICS 2022
 - [Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling](https://ieeexplore.ieee.org/iel7/9406784/9407034/09407236.pdf) by Oh, Young H., et al., HPCA 2021
 - [LiteReconfig: cost and content aware reconfiguration of video object detection systems for mobile GPUs](https://dl.acm.org/doi/pdf/10.1145/3492321.3519577) by Xu, Ran, et al., EuroSys 2022
-- [ApproxNet: Content and contention-aware video object classification system for embedded clients](https://dl.acm.org/doi/pdf/10.1145/3463530) Xu, Ran, et al. 
-- [Accelerating deep learning workloads through efficient multi-model execution](https://deepakn94.github.io/assets/papers/modelbatch-neurips18.pdf) Narayanan, Deepak, et al., NeurIPS Worksho 2018
+- [ApproxNet: Content and contention-aware video object classification system for embedded clients](https://dl.acm.org/doi/pdf/10.1145/3463530) by Xu, Ran, et al. 
+- [Accelerating deep learning workloads through efficient multi-model execution](https://deepakn94.github.io/assets/papers/modelbatch-neurips18.pdf) by Narayanan, Deepak, et al., NeurIPS Workshop 2018
+- [OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers](https://dl.acm.org/doi/pdf/10.1145/3552326.3567490?casa_token=3PdGx37tAzIAAAAA:VyjKzZA3FTV6uJDh5BD7E_Twr6jX1-UHFddSx-znCxT50YVXoii9zDF-bjUNg37CR94y03taeRjI2tM) by Chen, Ruobing, et al., EuroSys 2023
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
@@ -229,17 +231,12 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 ### LLM
 - [ImageBind: One embedding space to bind them all](https://openaccess.thecvf.com/content/CVPR2023/papers/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.pdf) by Girdhar, Rohit, et al., CVPR 2023
 - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429.pdf) by Shah, Dhruv, Błażej Osiński, and Sergey Levine., PMLR 2023
-- [Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks](https://arxiv.org/pdf/2304.03446) by Du, Hongyang, et al., arxiv 2023
 - [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/pdf/2303.06865) by Sheng, Ying, et al., ICML 2023
-- [Orca: A Distributed Serving System for {Transformer-Based} Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) by Yu, Gyeong-In, et al., OSDI 2022
 - [Tabi: An Efficient Multi-Level Inference System for Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3552326.3587438?casa_token=2Ju1tOw9-OQAAAAA:JiW7lFRbuCbNQp8JxLKq0_Fu5O2HnPKnCtXSBuWYiW0HOJa5AhUEhvaAQVBVoyDN0qAgI2abM73h20A) by Wang, Yiding, et al. EuroSys 2023
-- [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under reivew
-- [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
 - [Vcc: Scaling Transformers to 128K Tokens or More by Prioritizing Important Tokens](https://arxiv.org/pdf/2305.04241) by Zeng, Zhanpeng, et al., arxiv 2023
 - [SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/pdf/2305.09781) by Miao, Xupeng, et al., arxiv 2023
 - [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102) by Pope, Reiner, et al., arxiv 2022
 - [TopoopT: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs](https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf) by Wang, Weiyang, et al., NSDI 2023
-- [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/system/files/nsdi23-hwang.pdf) by Hwang, Changho, et al., NSDI 2023
 - [Breadth-First Pipeline Parallelism](https://arxiv.org/pdf/2211.05953) by Lamy-Poirier, Joel., MLSys 2023
 - [On Optimizing the Communication of Model Parallelism](https://arxiv.org/pdf/2211.05322.pdf) by Zhuang, Yonghao, et al., MLSys 2023
 - [Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism](https://arxiv.org/pdf/2211.13878) by Miao, Xupeng, et al., arxiv 2022
@@ -247,9 +244,14 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving](https://arxiv.org/pdf/2302.11665) by Li, Zhuohan, et al., OSDI 2023
 - [Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959) by Wang, Shibo, et al., ASPLOS 2023
 - [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://dl.acm.org/doi/pdf/10.1145/3575693.3575698) by Guo, Liwei, Wonkyo Choe, and Felix Xiaozhu Lin., ASPLOS 2023
+- [Orca: A Distributed Serving System for {Transformer-Based} Generative Models](https://www.usenix.org/system/files/osdi22-yu.pdf) by Yu, Gyeong-In, et al., OSDI 2022
 
 ### Distributed Inference
+- [Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks](https://arxiv.org/pdf/2304.03446) by Du, Hongyang, et al., arxiv 2023
 - [Distributed inference with deep learning models across heterogeneous edge devices](https://ieeexplore.ieee.org/iel7/9796607/9796652/09796896.pdf?casa_token=Yes91Ag1KIYAAAAA:x7nctoSMgomUb27jn0lErJwVq6i45TDTMxoB489_D04OFxVVMAxwDZGw25wNGThaG9ikYdlqndk) by Hu, Chenghao, and Baochun Li., INFOCOM 2022
+- [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under review
+- [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
+- [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/system/files/nsdi23-hwang.pdf) by Hwang, Changho, et al., NSDI 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
