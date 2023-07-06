@@ -214,6 +214,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
 - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/pdf/2207.04429) by Shah, Dhruv, et al., arxiv 2022
 - [Accelerating mobile audio sensing algorithms through on-chip gpu offloading](https://dl.acm.org/doi/pdf/10.1145/3081333.3081358) by Georgiev, Petko, et al., MobiSys 2017
+- [Enabling Edge Devices that Learn from Each Other: Cross Modal Training for Activity Recognition](https://dl.acm.org/doi/pdf/10.1145/3213344.3213351) by Xing, Tianwei, et al., EdgeSys 2018
 
 ### Sparse Inference
 - [SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf) by Zheng, Ningxin, et al., OSDI 2022
