@@ -209,6 +209,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Memory-efficient Patch-based Inference for Tiny Deep Learning](https://proceedings.neurips.cc/paper/2021/file/1371bccec2447b5aa6d96d2a540fb401-Paper.pdf) by Lin, Ji, et al., NeurIPS 2021
 - [Deep Learning on Microcontrollers: A Study on Deployment Costs and Challenge](https://dl.acm.org/doi/pdf/10.1145/3517207.3526978) by Filip Svoboda, Javier Fernandez-Marques, Edgar Liberis, Nicholas D Lane, EuroMLSys 2022
 - [Space-Efficient TREC for Enabling Deep Learning on Microcontrollers](https://dl.acm.org/doi/pdf/10.1145/3582016.3582062?casa_token=dEzMFkqOBvAAAAAA:EWjdKC4uNQM7ayLGV0J9H3zQg3jti4ZnShLmETkpl7GPQDbmw4jrlxZGLNhrmyNL8pHunWDDlKmuvAo) by Liu, Jiesong, et al., ASPLOS 2023
+- [Yono: Modeling multiple heterogeneous neural networks on microcontrollers](https://ieeexplore.ieee.org/iel7/9825912/9825917/09826043.pdf?casa_token=k5oKn7qI7AQAAAAA:YKeA1otIyDcSKSupRgdxKbjpastklsMvSerieUkQOKpHk1QakPGmw49aQtTnyw2ExWX-HuLDfUs) by Kwon, Young D., Jagmohan Chauhan, and Cecilia Mascolo, IPSN 2022
 
 ### Multi-modality Inference
 - [Dynamic Multimodal Fusion](https://arxiv.org/abs/2204.00102) by Xue, Zihui, and Radu Marculescu., arxiv 2022
