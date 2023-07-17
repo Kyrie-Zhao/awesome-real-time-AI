@@ -267,5 +267,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [CoCoPIE: Making Mobile AI Sweet As PIE--Compression-Compilation Co-Design Goes a Long Way](https://arxiv.org/pdf/2003.06700) by Liu, Shaoshan, et al., arxiv 2020
 - [Beyond Data and Model Parallelism for Deep Neural Networks](https://proceedings.mlsys.org/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf) by Jia, Zhihao, Matei Zaharia, and Alex Aiken, MLSys 2019
 - [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4) by Fawzi, Alhussein, et al., Nature 2022
+- [Gemel: Model Merging for {Memory-Efficient},{Real-Time} Video Analytics at the Edge](https://www.usenix.org/system/files/nsdi23-padmanabhan.pdf) by Padmanabhan, Arthi, et al., NSDI 2023
+- [{RECL}: Responsive {Resource-Efficient} Continuous Learning for Video Analytics](https://www.usenix.org/system/files/nsdi23-khani.pdf) by Khani, Mehrdad, et al., NSDI 2023
+- [Ekya: Continuous learning of video analytics models on edge compute servers](https://www.usenix.org/system/files/nsdi22-paper-bhardwaj.pdf) by Bhardwaj, Romil, et al., NSDI 2022
 
 
