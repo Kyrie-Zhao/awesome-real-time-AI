@@ -107,6 +107,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Tensorir: An abstraction for automatic tensorized program optimization](https://dl.acm.org/doi/pdf/10.1145/3575693.3576933) by Feng, Siyuan, et al., ASPLOS 2023
 - [SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning](https://arxiv.org/pdf/2207.04606) by Ye, Zihao, et al., ASPLOS 2023
 - [Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators](https://dl.acm.org/doi/pdf/10.1145/3582016.3582061?casa_token=gFiOV2z11E0AAAAA:14yK3A80hbov2KcRDvVRbewI6UU6_pxYay4lHkFsrvQUdVpIuiFgdG1vE0FyC5VZXhwEWq_MEs787YE) by Bi, Jun, et al., ASPLOS 2023
+- [Flextensor: An automatic schedule exploration and optimization framework for tensor computation on heterogeneous system](https://dl.acm.org/doi/pdf/10.1145/3373376.3378508?casa_token=IjkvAFAi79kAAAAA:tKUU4n_JfMUdRsXtqMD4oQh78L1mgsEiEcL97ATkKuhteZtG3cDXLNv3bE6GTeAS7Ltu-VmVYD596w) by Zheng, Size, et al., ASPLOS 2020
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
@@ -257,6 +258,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [DISTRIBUTED INFERENCE AND FINE-TUNING OF LARGE LANGUAGE MODELS OVER THE INTERNET](https://openreview.net/pdf?id=HLQyRgRnoXo) under review
 - [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920) by Wu, Bingyang, et al., arxiv 2023
 - [ARK: GPU-driven Code Execution for Distributed Deep Learning](https://www.usenix.org/system/files/nsdi23-hwang.pdf) by Hwang, Changho, et al., NSDI 2023
+- [On Modular Learning of Distributed Systems for Predicting {End-to-End} Latency](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf) by Liang, Chieh-Jan Mike, et al., NSDI 2023
 
 ### Other Cool Ideas
 - [Understanding and Optimizing Deep Learning Cold-Start Latency on Edge Devices](https://arxiv.org/pdf/2206.07446) by Yi, Rongjie, et al., arxiv 2022
