@@ -108,6 +108,10 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [SparseTIR: Composable Abstractions for Sparse Compilation in Deep Learning](https://arxiv.org/pdf/2207.04606) by Ye, Zihao, et al., ASPLOS 2023
 - [Heron: Automatically Constrained High-Performance Library Generation for Deep Learning Accelerators](https://dl.acm.org/doi/pdf/10.1145/3582016.3582061?casa_token=gFiOV2z11E0AAAAA:14yK3A80hbov2KcRDvVRbewI6UU6_pxYay4lHkFsrvQUdVpIuiFgdG1vE0FyC5VZXhwEWq_MEs787YE) by Bi, Jun, et al., ASPLOS 2023
 - [Flextensor: An automatic schedule exploration and optimization framework for tensor computation on heterogeneous system](https://dl.acm.org/doi/pdf/10.1145/3373376.3378508?casa_token=IjkvAFAi79kAAAAA:tKUU4n_JfMUdRsXtqMD4oQh78L1mgsEiEcL97ATkKuhteZtG3cDXLNv3bE6GTeAS7Ltu-VmVYD596w) by Zheng, Size, et al., ASPLOS 2020
+- [AutoMap: Automatic Mapping of Neural Networks to Deep Learning Accelerators for Edge Devices](https://ieeexplore.ieee.org/iel7/43/6917053/09999408.pdf?casa_token=34y7zq9lfHoAAAAA:oZ969RMs8uaqaPbe5ChLAAFv4W26n-mt2NkmcCFO2atwD7FYc-5G7P_CtWg-ehvf-mAKZopSCGo) by Wang, Yanhong, et al., TCAD 2022
+- [Optimizing Dynamic Neural Networks with Brainstorm](https://www.usenix.org/system/files/osdi23-cui.pdf) by Cui, Weihao, et al., OSDI 2023
+- [EINNET: Optimizing Tensor Programs with Derivation-Based Transformations](https://www.usenix.org/system/files/osdi23-zheng.pdf) by Zheng, Liyan, et al., OSDI 2023
+- [Welder: Scheduling Deep Learning Memory Access via Tile-graph](https://www.usenix.org/system/files/osdi23-shi.pdf) by Shi, Yining, et al., OSDI 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
