@@ -114,6 +114,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Welder: Scheduling Deep Learning Memory Access via Tile-graph](https://www.usenix.org/system/files/osdi23-shi.pdf) by Shi, Yining, et al., OSDI 2023
 - [TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs](https://graph-learning-benchmarks.github.io/assets/papers/glb2023/TpuGraphs_4_pager___Appendix.pdf) by Mangpo, Phitchaya, et al., arxiv 2023
 - [Transfer Learning Across Heterogeneous Features For Efficient Tensor Program Generation](https://arxiv.org/pdf/2304.05430) by Verma, Gaurav, et al., arxiv 2023
+- [Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their {Domain-Specific} Accelerators](https://www.usenix.org/system/files/osdi23-zhao.pdf) by Zhao, Jie, et al., arxiv 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
