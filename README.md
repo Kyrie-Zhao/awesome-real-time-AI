@@ -24,7 +24,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
   - [Distributed Inference](#distributed-inference)
   - [Other Cool Ideas](#other-cool-ideas)
  
-## Benchmark, Profiler and Dataset
+## Benchmark and Dataset
 - [MLPerf](https://github.com/mlcommons/inference)
 - [Tracy Profiler](https://github.com/wolfpld/tracy)
 - [CUDA Flux](https://github.com/UniHD-CEG/cuda-flux)
