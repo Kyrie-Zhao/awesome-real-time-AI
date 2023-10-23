@@ -156,6 +156,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Accelerating deep learning workloads through efficient multi-model execution](https://deepakn94.github.io/assets/papers/modelbatch-neurips18.pdf) by Narayanan, Deepak, et al., NeurIPS Workshop 2018
 - [OLPart: Online Learning based Resource Partitioning for Colocating Multiple Latency-Critical Jobs on Commodity Computers](https://dl.acm.org/doi/pdf/10.1145/3552326.3567490?casa_token=3PdGx37tAzIAAAAA:VyjKzZA3FTV6uJDh5BD7E_Twr6jX1-UHFddSx-znCxT50YVXoii9zDF-bjUNg37CR94y03taeRjI2tM) by Chen, Ruobing, et al., EuroSys 2023
 - [MoCA: Memory-Centric, Adaptive Execution for Multi-Tenant Deep Neural Networks](https://ieeexplore.ieee.org/iel7/10070856/10070923/10071035.pdf?casa_token=6JLQ2NjMcacAAAAA:wvMK9Nc3ypNuG1-UVkCD7Fcto3Ycjq6sICWoaHA8nFoHHIuwqp8lj79J02Fv9gA-zCR-wYHveQ4) by Kim, Seah, et al., HPCA 2023
+- [Decentralized Application-Level Adaptive Scheduling for Multi-Instance DNNs on Open Mobile Devices](https://www.usenix.org/system/files/atc23-sung.pdf) by Sung, Hsin-Hsuan, et al., ATC 2023 
 
 ### Heterogeneous Platforms
 - [Lalarand: Flexible layer-by-layer cpu/gpu scheduling for real-time dnn tasks](https://ieeexplore.ieee.org/iel7/9622323/9622324/09622325.pdf?casa_token=HtllgvtNt8wAAAAA:hasDDmtMmf8uVWgtrevp1XT2Ldh4u-0bWMjup4VPqT1PsCbq77cgwOMOAeAboXs_J_Goklo) by Kang, Woosung, et al., RTSS 2021
@@ -201,6 +202,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Making Powerful Enemies on NVIDIA GPUs](https://ieeexplore.ieee.org/iel7/9984704/9984706/09984754.pdf) by Yandrofski, Tyler, et al., RTSS 2022
 - [Contention-Aware GPU Partitioning and Task-to-Partition Allocation for Real-Time Workloads](https://dl.acm.org/doi/pdf/10.1145/3453417.3453439) by Zahaf, Houssam-Eddine, et al., RTNS 2021
 - [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/system/files/osdi20-bai.pdf) by Bai, Zhihao, et al., OSDI 2020
+- [Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent](https://www.usenix.org/system/files/atc23-weng.pdf) by Weng, Qizhen, et al., ATC 2023
+- [VectorVisor: A Binary Translation Scheme for Throughput-Oriented GPU Acceleration](https://www.usenix.org/system/files/atc23-ginzburg.pdf) by Ginzburg, Samuel, Mohammad Shahrad, and Michael J. Freedman., ATC 2023
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
