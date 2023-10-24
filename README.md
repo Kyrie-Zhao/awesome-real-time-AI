@@ -204,6 +204,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [PipeSwitch: Fast Pipelined Context Switching for Deep Learning Applications](https://www.usenix.org/system/files/osdi20-bai.pdf) by Bai, Zhihao, et al., OSDI 2020
 - [Beware of Fragmentation: Scheduling GPU-Sharing Workloads with Fragmentation Gradient Descent](https://www.usenix.org/system/files/atc23-weng.pdf) by Weng, Qizhen, et al., ATC 2023
 - [VectorVisor: A Binary Translation Scheme for Throughput-Oriented GPU Acceleration](https://www.usenix.org/system/files/atc23-ginzburg.pdf) by Ginzburg, Samuel, Mohammad Shahrad, and Michael J. Freedman., ATC 2023
+- [Arbitor: A Numerically Accurate Hardware Emulation Tool for DNN Accelerators](https://www.usenix.org/system/files/atc23-jiang-chenhao.pdf) by Jiang, Chenhao, et al., ATC 2023
 
 ### Latency Predictor
 - [MAPLE-X: Latency Prediction with Explicit Microprocessor Prior Knowledge](https://arxiv.org/pdf/2205.12660) by Abbasi, Saad, Alexander Wong, and Mohammad Javad Shafiee., arxiv 2022
