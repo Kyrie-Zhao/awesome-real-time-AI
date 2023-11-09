@@ -117,6 +117,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators](https://www.usenix.org/system/files/osdi23-zhao.pdf) by Zhao, Jie, et al., OSDI 2023
 - [Accelerating In-Browser Deep Learning Inference on Diverse Edge Clients through Just-in-Time Kernel Optimizations](https://arxiv.org/pdf/2309.08978) by Jia, Fucheng, et al. arxiv 2023
 - [Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning](https://www.usenix.org/system/files/osdi23-zhang-chen.pdf) by Zhang, Chen, et al., OSDI 2023
+- [Revisiting the Evaluation of Deep Learning-Based Compiler Testing](https://www.ijcai.org/proceedings/2023/0542.pdf) by Tian, Yongqiang, et al., IJCAI 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
