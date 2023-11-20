@@ -57,6 +57,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Multi-DNN Accelerators for Next-Generation AI Systems](https://arxiv.org/pdf/2205.09376) by Venieris, Stylianos I., Christos-Savvas Bouganis, and Nicholas D. Lane., arxiv 2022
 - [A Survey of GPU Multitasking Methods Supported by Hardware Architecture](https://ieeexplore.ieee.org/iel7/71/4359390/09548839.pdf) Zhao, Chen, et al., IEEE TPDS 2021
 - [The Future of Consumer Edge-AI Computing](https://arxiv.org/pdf/2210.10514) by Laskaridis, Stefanos, et al., arxiv 2022
+- [DLAS: An Exploration and Assessment of the Deep Learning Acceleration Stack](https://arxiv.org/pdf/2311.08909) by Gibson, Perry, et al., arxiv 2023
 
 ### DNN Compiler
 - [Moses: Exploiting Cross-device Transferable Features for On-device Tensor Program Optimization](https://dl.acm.org/doi/pdf/10.1145/3572864.3580330) by Zhao, Zhihe, et al., HotMobile 2023
