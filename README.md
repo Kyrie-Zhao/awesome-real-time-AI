@@ -122,6 +122,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Learning Compiler Pass Orders using Coreset and Normalized Value Prediction](https://openreview.net/pdf?id=DwEU2zXeHG) by Liang, Youwei, et al., ICML 2023
 - [Learning to make compiler optimizations more effective](https://dl.acm.org/doi/pdf/10.1145/3460945.3464952) by Mammadli, Rahim, et al. PLDI 2021
 - [C2TACO: Lifting Tensor Code to TACO](https://dl.acm.org/doi/pdf/10.1145/3624007.3624053) by Magalhães, José Wesley de Souza, et al., GPCE 2023
+- [TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs](https://arxiv.org/pdf/2308.13490) by Phothilimthana, Phitchaya Mangpo, et al., arxiv 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
