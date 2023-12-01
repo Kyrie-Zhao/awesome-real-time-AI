@@ -115,7 +115,6 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs](https://graph-learning-benchmarks.github.io/assets/papers/glb2023/TpuGraphs_4_pager___Appendix.pdf) by Mangpo, Phitchaya, et al., arxiv 2023
 - [Transfer Learning Across Heterogeneous Features For Efficient Tensor Program Generation](https://arxiv.org/pdf/2304.05430) by Verma, Gaurav, et al., arxiv 2023
 - [Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their {Domain-Specific} Accelerators](https://www.usenix.org/system/files/osdi23-zhao.pdf) by Zhao, Jie, et al., arxiv 2023
-- [Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators](https://www.usenix.org/system/files/osdi23-zhao.pdf) by Zhao, Jie, et al., OSDI 2023
 - [Accelerating In-Browser Deep Learning Inference on Diverse Edge Clients through Just-in-Time Kernel Optimizations](https://arxiv.org/pdf/2309.08978) by Jia, Fucheng, et al. arxiv 2023
 - [Cocktailer: Analyzing and Optimizing Dynamic Control Flow in Deep Learning](https://www.usenix.org/system/files/osdi23-zhang-chen.pdf) by Zhang, Chen, et al., OSDI 2023
 - [Revisiting the Evaluation of Deep Learning-Based Compiler Testing](https://www.ijcai.org/proceedings/2023/0542.pdf) by Tian, Yongqiang, et al., IJCAI 2023
