@@ -123,6 +123,8 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [C2TACO: Lifting Tensor Code to TACO](https://dl.acm.org/doi/pdf/10.1145/3624007.3624053) by Magalhães, José Wesley de Souza, et al., GPCE 2023
 - [TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs](https://arxiv.org/pdf/2308.13490) by Phothilimthana, Phitchaya Mangpo, et al., arxiv 2023
 - [Autotuning convolutions is easier than you think](https://dl.acm.org/doi/pdf/10.1145/3570641) by Tollenaere, Nicolas, et al., ACM TACO 2023
+- [DnD: A Cross-Architecture Deep Neural Network Decompiler](https://www.usenix.org/system/files/sec22-wu-ruoyu.pdf) by Wu, Ruoyu, et al., USENIX Security 22
+- [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/system/files/usenixsecurity23-liu-zhibo.pdf) by Liu, Zhibo, et al., USENIX Security 23
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
