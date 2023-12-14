@@ -125,6 +125,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Autotuning convolutions is easier than you think](https://dl.acm.org/doi/pdf/10.1145/3570641) by Tollenaere, Nicolas, et al., ACM TACO 2023
 - [DnD: A Cross-Architecture Deep Neural Network Decompiler](https://www.usenix.org/system/files/sec22-wu-ruoyu.pdf) by Wu, Ruoyu, et al., USENIX Security 22
 - [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/system/files/usenixsecurity23-liu-zhibo.pdf) by Liu, Zhibo, et al., USENIX Security 23
+- [LibSteal: Model Extraction Attack towards Deep Learning Compilers by Reversing DNN Binary Library](https://faculty.ist.psu.edu/wu/papers/DLCompilerAttack.pdf) by Zhang, Jinquan, Pei Wang, and Dinghao Wu., ENASE 2023
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
