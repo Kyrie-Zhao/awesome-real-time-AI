@@ -12,6 +12,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Papers](#papers)
   - [Survey](#survey)
   - [DNN Compiler](#dnn-compiler)
+  - [DNN Extraction](#dnn-extraction)
   - [Edge-Cloud Collaborative Inference](#edge-cloud-collaborative-inference)
   - [Concurrent DNN Inference](#concurrent-dnn-inference)
   - [Heterogeneous Platforms](#heterogeneous-platforms)
@@ -123,9 +124,19 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [C2TACO: Lifting Tensor Code to TACO](https://dl.acm.org/doi/pdf/10.1145/3624007.3624053) by Magalhães, José Wesley de Souza, et al., GPCE 2023
 - [TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs](https://arxiv.org/pdf/2308.13490) by Phothilimthana, Phitchaya Mangpo, et al., arxiv 2023
 - [Autotuning convolutions is easier than you think](https://dl.acm.org/doi/pdf/10.1145/3570641) by Tollenaere, Nicolas, et al., ACM TACO 2023
+
+### DNN Extraction
 - [DnD: A Cross-Architecture Deep Neural Network Decompiler](https://www.usenix.org/system/files/sec22-wu-ruoyu.pdf) by Wu, Ruoyu, et al., USENIX Security 22
 - [Decompiling x86 Deep Neural Network Executables](https://www.usenix.org/system/files/usenixsecurity23-liu-zhibo.pdf) by Liu, Zhibo, et al., USENIX Security 23
 - [LibSteal: Model Extraction Attack towards Deep Learning Compilers by Reversing DNN Binary Library](https://faculty.ist.psu.edu/wu/papers/DLCompilerAttack.pdf) by Zhang, Jinquan, Pei Wang, and Dinghao Wu., ENASE 2023
+- [Reverse engineering convolutional neural networks through side-channel information leaks](https://dl.acm.org/doi/pdf/10.1145/3195970.3196105?casa_token=B38jBI0JuX0AAAAA:9L-h52ZfSlSWE-WWWdx7Xjutwe-8_8tUgbZTR-qyDOnNDkLz5cM2CmJDVR1idBmXQWUfBMHGKbPjWw) by Hua, Weizhe, Zhiru Zhang, and G. Edward Suh., DAC 2018
+- [Cache telepathy: Leveraging shared resource attacks to learn {DNN} architectures](https://www.usenix.org/system/files/sec20-yan.pdf) by Yan, Mengjia, Christopher W. Fletcher, and Josep Torrellas., USENIX Security 2020
+- [Knockoff nets: Stealing functionality of black-box models](http://openaccess.thecvf.com/content_CVPR_2019/papers/Orekondy_Knockoff_Nets_Stealing_Functionality_of_Black-Box_Models_CVPR_2019_paper.pdf) by Orekondy, Tribhuvanesh, Bernt Schiele, and Mario Fritz., CVPR 2019
+- [Deepsniffer: A dnn model extraction framework based on learning architectural hints](https://dl.acm.org/doi/pdf/10.1145/3373376.3378460) by Hu, Xing, et al., ASPLOS 2020
+- [I know what you trained last summer: A survey on stealing machine learning models and defences](https://dl.acm.org/doi/pdf/10.1145/3595292) by Oliynyk, Daryna, Rudolf Mayer, and Andreas Rauber., ACM Computing Surveys 2023
+- [Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833743.pdf) by Rakin, Adnan Siraj, et al., S&P 2022
+- [Hermes attack: Steal {DNN} models with lossless inference accuracy](https://www.usenix.org/system/files/sec21-zhu.pdf) by Zhu, Yuankun, et al., USENIX Security 2021
+- [Stealing machine learning models via prediction {APIs}](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) by Tramèr, Florian, et al., USENIX Security 2016
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
