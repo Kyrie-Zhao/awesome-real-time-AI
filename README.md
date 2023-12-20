@@ -137,6 +137,7 @@ This is a list of awesome real-time AI and DNN inference related projects & pape
 - [Deepsteal: Advanced model extractions leveraging efficient weight stealing in memories](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833743.pdf) by Rakin, Adnan Siraj, et al., S&P 2022
 - [Hermes attack: Steal {DNN} models with lossless inference accuracy](https://www.usenix.org/system/files/sec21-zhu.pdf) by Zhu, Yuankun, et al., USENIX Security 2021
 - [Stealing machine learning models via prediction {APIs}](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf) by Tramèr, Florian, et al., USENIX Security 2016
+- [SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications](https://ieeexplore.ieee.org/iel7/9833550/9833558/09833799.pdf) by Liu, Zhibo, et al., S&P 2022
 
 ### Edge-Cloud Collaborative Inference
 - [EdgeML: An AutoML framework for real-time deep learning on the edge](https://dl.acm.org/doi/10.1145/3450268.3453520) by Zhao, Zhihe, et al., IoTDI 2021
